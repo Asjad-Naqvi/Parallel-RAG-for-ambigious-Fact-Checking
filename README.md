@@ -1,6 +1,6 @@
 # Parallel RAG for Ambiguous Fact Checking
 
-> **📧 Data and Checkpoints**: Pre-trained model checkpoints and datasets can be requested via email at **asjadnaqvi1104@gmail.com**
+> **📧 Data and Checkpoints**: Pre-trained model checkpoints and datasets can be requested via email at **asjadnaqvi1104@gmail.com** ****Email**: khanhamzazai5@gmail.com**
 
 ## Overview
 
@@ -195,6 +195,7 @@ To request:
 - Processed data files
 
 **Please email: asjadnaqvi1104@gmail.com**
+**Please Email**: khanhamzazai5@gmail.com**
 
 Include in your email:
 - Your name and affiliation
@@ -227,8 +228,10 @@ This project is provided for research purposes. Please contact the author for li
 
 ## Contact
 
-**Author**: Asjad Naqvi  
+** Co-Author**: Asjad Naqvi  
 **Email**: asjadnaqvi1104@gmail.com
+**Co Author**: Sameer Khan 
+**Email**: khanhamzazai5@gmail.com
 
 For questions, bug reports, or collaboration inquiries, please reach out via email.
 
