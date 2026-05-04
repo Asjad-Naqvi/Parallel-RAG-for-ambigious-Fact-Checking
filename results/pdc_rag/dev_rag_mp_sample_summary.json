@@ -1,0 +1,22 @@
+{
+  "input": "data/processed/dev.jsonl",
+  "output": "data/rag/dev_rag_mp_sample.jsonl",
+  "index_dir": "data/indexes",
+  "dense_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "rows": 100,
+  "bm25_workers": 4,
+  "chunks_per_worker": 16,
+  "dense_batch_size": 128,
+  "top_k_bm25": 20,
+  "top_k_dense": 20,
+  "top_k_final": 3,
+  "rrf_k": 60,
+  "avg_retrieved_passages": 3.0,
+  "bm25_time_seconds": 3.7317076409963192,
+  "dense_load_time_seconds": 10.936613461992238,
+  "dense_time_seconds": 0.24905888400098775,
+  "ambiguity_time_seconds": 0.01862192699627485,
+  "fusion_context_time_seconds": 0.0032052780006779358,
+  "total_time_seconds": 15.099728027998935,
+  "rows_per_second": 6.6226358391736095
+}

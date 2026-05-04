@@ -1,0 +1,22 @@
+{
+  "input": "data/processed/train.jsonl",
+  "output": "data/rag/train_rag_mp.jsonl",
+  "index_dir": "data/indexes",
+  "dense_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "rows": 35621,
+  "bm25_workers": 4,
+  "chunks_per_worker": 16,
+  "dense_batch_size": 128,
+  "top_k_bm25": 20,
+  "top_k_dense": 20,
+  "top_k_final": 3,
+  "rrf_k": 60,
+  "avg_retrieved_passages": 3.0,
+  "bm25_time_seconds": 1021.3142598989944,
+  "dense_load_time_seconds": 10.356381885998417,
+  "dense_time_seconds": 18.575254530995153,
+  "ambiguity_time_seconds": 5.743434314004844,
+  "fusion_context_time_seconds": 1.441399942006683,
+  "total_time_seconds": 1062.191933117996,
+  "rows_per_second": 33.53537048190231
+}

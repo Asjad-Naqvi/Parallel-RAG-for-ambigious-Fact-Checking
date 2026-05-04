@@ -1,0 +1,944 @@
+{
+  "100": {
+    "sequential_samples": [
+      {
+        "id": "newwiki.jsonl:3581:4:0",
+        "claim": "the movie dreamgirls was  based on the supremes.",
+        "query": "the movie dreamgirls was  based on the supremes. Dreamgirls (film)",
+        "ambiguity": {
+          "ambiguity_type": "vagueness",
+          "ambiguity_types": [
+            "vagueness"
+          ],
+          "ambiguity_cues": [
+            "many"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1373,
+            "corpus_id": "newwiki.jsonl:3581:11:0",
+            "score": 0.5523202419281006,
+            "text": "To give the story more exposure for the upcoming film release, DreamWorks and the licenser of the original play, The Tams-Witmark Music Library, announced that they would pay the licensing fees for all non-professional stage performances of Dreamgirls for the calendar year of 2006. DreamWorks hoped to encourage amateur productions of Dreamgirls, and familiarize a wider audience with the play. As a result, more than fifty high schools, colleges, community theaters, and other non-commercial theater entities staged productions of Dreamgirls in 2006, and DreamWorks spent up to $250,000 subsidizing the licensing. The Dreamgirls novelization was written by African-American novelist Denene Millner, and adapts the film's official script in chapter form, along with fourteen pages of photographs from the film. The book was released on October 31, 2006. A scrapbook, entitled Dreamgirls: The Movie Musical, was released on March 27, 2007. The limited edition program guide accompanying the Dreamgirls road show release was made available for retail purchase in February. In addition, the Tonnor Doll Company released \"The Dreamettes\" collection, featuring dolls of the characters Deena, Lorrell, and Effie, to coincide with the release of the film.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Reception &raquo; Related promotions and products",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 12517,
+            "corpus_id": "newwiki.jsonl:3581:0:0",
+            "score": 0.5689255595207214,
+            "text": "Dreamgirls is a 2006 American musical drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive. The film adaptation of Dreamgirls stars Jamie Foxx, Beyoncé, Eddie Murphy, and Jennifer Hudson, and also features Danny Glover, Anika Noni Rose and Keith Robinson. Produced by Laurence Mark, the film's screenplay was adapted by director Condon from the original Broadway book by Tom Eyen. In addition to the original Kreiger/Eyen compositions, four new songs, composed by Krieger with various lyricists, were added for this film. Dreamgirls features the acting debut of Hudson, a former American Idol contestant and singer. The film debuted in four special road show engagements starting on December 15, 2006, before its nationwide release on December 25, 2006. With a production cost of $80 million, Dreamgirls is one of the most expensive films to feature a mainly African-American starring cast in American cinema history. Upon its release, the film garnered positive reviews from critics, who particularly praised soundtrack, cast and the performances of Hudson and Murphy. The film also earned $155 million at the international box office.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "",
+            "rrf_score": 0.062266458495966695
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12412,
+            "corpus_id": "newwiki.jsonl:3581:3:0",
+            "score": 0.5474460124969482,
+            "text": "Since the 1980s and 1990s, several different attempts have been made to produce a film adaptation of Dreamgirls, a Broadway musical loosely based upon the story of The Supremes and Motown Records, which won six Tony Awards in 1982. David Geffen, the stage musical's co-financier, retained the film rights to Dreamgirls and turned down many offers to adapt the story for the screen. He cited a need to preserve the integrity of Dreamgirls stage director Michael Bennett's work after his death in 1987. That same year, Geffen, who ran his Warner Bros.-associated Geffen Pictures film production company at the time, began talks with Broadway lyricist and producer Howard Ashman to adapt it as a star vehicle for Whitney Houston, who was to portray Deena. The production ran into problems when Houston wanted to sing both Deena and Effie's songs (particularly \"And I Am Telling You I'm Not Going\"), and the film was eventually abandoned. When Geffen co-founded DreamWorks in 1994 and dissolved Geffen Pictures, the rights to Dreamgirls remained with Warner Bros. Warner planned to go ahead with the film with director Joel Schumacher and screenwriter Tina Andrews in the late 1990s, following the success of Touchstone Pictures's Tina Turner biopic What's Love Got to Do with It. Schumacher planned to have Lauryn Hill portray Deena and Kelly Price play Effie. After Warner's Frankie Lymon biopic Why Do Fools Fall in Love failed at the box office, the studio shut down development on Dreamgirls.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Production &raquo; Pre-production",
+            "rrf_score": 0.062002048131080394
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:0",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "coreference",
+          "ambiguity_types": [
+            "coreference"
+          ],
+          "ambiguity_cues": [
+            "it"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223006248474121,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401448488235474,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724292755127,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:20",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "underspecification",
+          "ambiguity_types": [
+            "coreference",
+            "negation",
+            "underspecification"
+          ],
+          "ambiguity_cues": [
+            "never",
+            "it",
+            "never"
+          ],
+          "ambiguity_score": 3
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223006248474121,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401448488235474,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724292755127,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      }
+    ],
+    "async_samples": [
+      {
+        "id": "newwiki.jsonl:3581:4:0",
+        "claim": "the movie dreamgirls was  based on the supremes.",
+        "query": "the movie dreamgirls was  based on the supremes. Dreamgirls (film)",
+        "ambiguity": {
+          "ambiguity_type": "vagueness",
+          "ambiguity_types": [
+            "vagueness"
+          ],
+          "ambiguity_cues": [
+            "many"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1373,
+            "corpus_id": "newwiki.jsonl:3581:11:0",
+            "score": 0.5523202419281006,
+            "text": "To give the story more exposure for the upcoming film release, DreamWorks and the licenser of the original play, The Tams-Witmark Music Library, announced that they would pay the licensing fees for all non-professional stage performances of Dreamgirls for the calendar year of 2006. DreamWorks hoped to encourage amateur productions of Dreamgirls, and familiarize a wider audience with the play. As a result, more than fifty high schools, colleges, community theaters, and other non-commercial theater entities staged productions of Dreamgirls in 2006, and DreamWorks spent up to $250,000 subsidizing the licensing. The Dreamgirls novelization was written by African-American novelist Denene Millner, and adapts the film's official script in chapter form, along with fourteen pages of photographs from the film. The book was released on October 31, 2006. A scrapbook, entitled Dreamgirls: The Movie Musical, was released on March 27, 2007. The limited edition program guide accompanying the Dreamgirls road show release was made available for retail purchase in February. In addition, the Tonnor Doll Company released \"The Dreamettes\" collection, featuring dolls of the characters Deena, Lorrell, and Effie, to coincide with the release of the film.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Reception &raquo; Related promotions and products",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 12517,
+            "corpus_id": "newwiki.jsonl:3581:0:0",
+            "score": 0.5689255595207214,
+            "text": "Dreamgirls is a 2006 American musical drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive. The film adaptation of Dreamgirls stars Jamie Foxx, Beyoncé, Eddie Murphy, and Jennifer Hudson, and also features Danny Glover, Anika Noni Rose and Keith Robinson. Produced by Laurence Mark, the film's screenplay was adapted by director Condon from the original Broadway book by Tom Eyen. In addition to the original Kreiger/Eyen compositions, four new songs, composed by Krieger with various lyricists, were added for this film. Dreamgirls features the acting debut of Hudson, a former American Idol contestant and singer. The film debuted in four special road show engagements starting on December 15, 2006, before its nationwide release on December 25, 2006. With a production cost of $80 million, Dreamgirls is one of the most expensive films to feature a mainly African-American starring cast in American cinema history. Upon its release, the film garnered positive reviews from critics, who particularly praised soundtrack, cast and the performances of Hudson and Murphy. The film also earned $155 million at the international box office.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "",
+            "rrf_score": 0.062266458495966695
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12412,
+            "corpus_id": "newwiki.jsonl:3581:3:0",
+            "score": 0.5474460124969482,
+            "text": "Since the 1980s and 1990s, several different attempts have been made to produce a film adaptation of Dreamgirls, a Broadway musical loosely based upon the story of The Supremes and Motown Records, which won six Tony Awards in 1982. David Geffen, the stage musical's co-financier, retained the film rights to Dreamgirls and turned down many offers to adapt the story for the screen. He cited a need to preserve the integrity of Dreamgirls stage director Michael Bennett's work after his death in 1987. That same year, Geffen, who ran his Warner Bros.-associated Geffen Pictures film production company at the time, began talks with Broadway lyricist and producer Howard Ashman to adapt it as a star vehicle for Whitney Houston, who was to portray Deena. The production ran into problems when Houston wanted to sing both Deena and Effie's songs (particularly \"And I Am Telling You I'm Not Going\"), and the film was eventually abandoned. When Geffen co-founded DreamWorks in 1994 and dissolved Geffen Pictures, the rights to Dreamgirls remained with Warner Bros. Warner planned to go ahead with the film with director Joel Schumacher and screenwriter Tina Andrews in the late 1990s, following the success of Touchstone Pictures's Tina Turner biopic What's Love Got to Do with It. Schumacher planned to have Lauryn Hill portray Deena and Kelly Price play Effie. After Warner's Frankie Lymon biopic Why Do Fools Fall in Love failed at the box office, the studio shut down development on Dreamgirls.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Production &raquo; Pre-production",
+            "rrf_score": 0.062002048131080394
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:0",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "coreference",
+          "ambiguity_types": [
+            "coreference"
+          ],
+          "ambiguity_cues": [
+            "it"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223006248474121,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401448488235474,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724292755127,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:20",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "underspecification",
+          "ambiguity_types": [
+            "coreference",
+            "negation",
+            "underspecification"
+          ],
+          "ambiguity_cues": [
+            "never",
+            "it",
+            "never"
+          ],
+          "ambiguity_score": 3
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223006248474121,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401448488235474,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724292755127,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      }
+    ]
+  },
+  "500": {
+    "sequential_samples": [
+      {
+        "id": "newwiki.jsonl:3581:4:0",
+        "claim": "the movie dreamgirls was  based on the supremes.",
+        "query": "the movie dreamgirls was  based on the supremes. Dreamgirls (film)",
+        "ambiguity": {
+          "ambiguity_type": "vagueness",
+          "ambiguity_types": [
+            "vagueness"
+          ],
+          "ambiguity_cues": [
+            "many"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1373,
+            "corpus_id": "newwiki.jsonl:3581:11:0",
+            "score": 0.552320122718811,
+            "text": "To give the story more exposure for the upcoming film release, DreamWorks and the licenser of the original play, The Tams-Witmark Music Library, announced that they would pay the licensing fees for all non-professional stage performances of Dreamgirls for the calendar year of 2006. DreamWorks hoped to encourage amateur productions of Dreamgirls, and familiarize a wider audience with the play. As a result, more than fifty high schools, colleges, community theaters, and other non-commercial theater entities staged productions of Dreamgirls in 2006, and DreamWorks spent up to $250,000 subsidizing the licensing. The Dreamgirls novelization was written by African-American novelist Denene Millner, and adapts the film's official script in chapter form, along with fourteen pages of photographs from the film. The book was released on October 31, 2006. A scrapbook, entitled Dreamgirls: The Movie Musical, was released on March 27, 2007. The limited edition program guide accompanying the Dreamgirls road show release was made available for retail purchase in February. In addition, the Tonnor Doll Company released \"The Dreamettes\" collection, featuring dolls of the characters Deena, Lorrell, and Effie, to coincide with the release of the film.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Reception &raquo; Related promotions and products",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 12517,
+            "corpus_id": "newwiki.jsonl:3581:0:0",
+            "score": 0.5689252614974976,
+            "text": "Dreamgirls is a 2006 American musical drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive. The film adaptation of Dreamgirls stars Jamie Foxx, Beyoncé, Eddie Murphy, and Jennifer Hudson, and also features Danny Glover, Anika Noni Rose and Keith Robinson. Produced by Laurence Mark, the film's screenplay was adapted by director Condon from the original Broadway book by Tom Eyen. In addition to the original Kreiger/Eyen compositions, four new songs, composed by Krieger with various lyricists, were added for this film. Dreamgirls features the acting debut of Hudson, a former American Idol contestant and singer. The film debuted in four special road show engagements starting on December 15, 2006, before its nationwide release on December 25, 2006. With a production cost of $80 million, Dreamgirls is one of the most expensive films to feature a mainly African-American starring cast in American cinema history. Upon its release, the film garnered positive reviews from critics, who particularly praised soundtrack, cast and the performances of Hudson and Murphy. The film also earned $155 million at the international box office.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "",
+            "rrf_score": 0.062266458495966695
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12412,
+            "corpus_id": "newwiki.jsonl:3581:3:0",
+            "score": 0.5474460124969482,
+            "text": "Since the 1980s and 1990s, several different attempts have been made to produce a film adaptation of Dreamgirls, a Broadway musical loosely based upon the story of The Supremes and Motown Records, which won six Tony Awards in 1982. David Geffen, the stage musical's co-financier, retained the film rights to Dreamgirls and turned down many offers to adapt the story for the screen. He cited a need to preserve the integrity of Dreamgirls stage director Michael Bennett's work after his death in 1987. That same year, Geffen, who ran his Warner Bros.-associated Geffen Pictures film production company at the time, began talks with Broadway lyricist and producer Howard Ashman to adapt it as a star vehicle for Whitney Houston, who was to portray Deena. The production ran into problems when Houston wanted to sing both Deena and Effie's songs (particularly \"And I Am Telling You I'm Not Going\"), and the film was eventually abandoned. When Geffen co-founded DreamWorks in 1994 and dissolved Geffen Pictures, the rights to Dreamgirls remained with Warner Bros. Warner planned to go ahead with the film with director Joel Schumacher and screenwriter Tina Andrews in the late 1990s, following the success of Touchstone Pictures's Tina Turner biopic What's Love Got to Do with It. Schumacher planned to have Lauryn Hill portray Deena and Kelly Price play Effie. After Warner's Frankie Lymon biopic Why Do Fools Fall in Love failed at the box office, the studio shut down development on Dreamgirls.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Production &raquo; Pre-production",
+            "rrf_score": 0.062002048131080394
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:0",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "coreference",
+          "ambiguity_types": [
+            "coreference"
+          ],
+          "ambiguity_cues": [
+            "it"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223007440567017,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401449084281921,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724888801575,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:20",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "underspecification",
+          "ambiguity_types": [
+            "coreference",
+            "negation",
+            "underspecification"
+          ],
+          "ambiguity_cues": [
+            "never",
+            "it",
+            "never"
+          ],
+          "ambiguity_score": 3
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223007440567017,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401449084281921,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724888801575,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      }
+    ],
+    "async_samples": [
+      {
+        "id": "newwiki.jsonl:3581:4:0",
+        "claim": "the movie dreamgirls was  based on the supremes.",
+        "query": "the movie dreamgirls was  based on the supremes. Dreamgirls (film)",
+        "ambiguity": {
+          "ambiguity_type": "vagueness",
+          "ambiguity_types": [
+            "vagueness"
+          ],
+          "ambiguity_cues": [
+            "many"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1373,
+            "corpus_id": "newwiki.jsonl:3581:11:0",
+            "score": 0.552320122718811,
+            "text": "To give the story more exposure for the upcoming film release, DreamWorks and the licenser of the original play, The Tams-Witmark Music Library, announced that they would pay the licensing fees for all non-professional stage performances of Dreamgirls for the calendar year of 2006. DreamWorks hoped to encourage amateur productions of Dreamgirls, and familiarize a wider audience with the play. As a result, more than fifty high schools, colleges, community theaters, and other non-commercial theater entities staged productions of Dreamgirls in 2006, and DreamWorks spent up to $250,000 subsidizing the licensing. The Dreamgirls novelization was written by African-American novelist Denene Millner, and adapts the film's official script in chapter form, along with fourteen pages of photographs from the film. The book was released on October 31, 2006. A scrapbook, entitled Dreamgirls: The Movie Musical, was released on March 27, 2007. The limited edition program guide accompanying the Dreamgirls road show release was made available for retail purchase in February. In addition, the Tonnor Doll Company released \"The Dreamettes\" collection, featuring dolls of the characters Deena, Lorrell, and Effie, to coincide with the release of the film.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Reception &raquo; Related promotions and products",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 12517,
+            "corpus_id": "newwiki.jsonl:3581:0:0",
+            "score": 0.5689252614974976,
+            "text": "Dreamgirls is a 2006 American musical drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive. The film adaptation of Dreamgirls stars Jamie Foxx, Beyoncé, Eddie Murphy, and Jennifer Hudson, and also features Danny Glover, Anika Noni Rose and Keith Robinson. Produced by Laurence Mark, the film's screenplay was adapted by director Condon from the original Broadway book by Tom Eyen. In addition to the original Kreiger/Eyen compositions, four new songs, composed by Krieger with various lyricists, were added for this film. Dreamgirls features the acting debut of Hudson, a former American Idol contestant and singer. The film debuted in four special road show engagements starting on December 15, 2006, before its nationwide release on December 25, 2006. With a production cost of $80 million, Dreamgirls is one of the most expensive films to feature a mainly African-American starring cast in American cinema history. Upon its release, the film garnered positive reviews from critics, who particularly praised soundtrack, cast and the performances of Hudson and Murphy. The film also earned $155 million at the international box office.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "",
+            "rrf_score": 0.062266458495966695
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12412,
+            "corpus_id": "newwiki.jsonl:3581:3:0",
+            "score": 0.5474460124969482,
+            "text": "Since the 1980s and 1990s, several different attempts have been made to produce a film adaptation of Dreamgirls, a Broadway musical loosely based upon the story of The Supremes and Motown Records, which won six Tony Awards in 1982. David Geffen, the stage musical's co-financier, retained the film rights to Dreamgirls and turned down many offers to adapt the story for the screen. He cited a need to preserve the integrity of Dreamgirls stage director Michael Bennett's work after his death in 1987. That same year, Geffen, who ran his Warner Bros.-associated Geffen Pictures film production company at the time, began talks with Broadway lyricist and producer Howard Ashman to adapt it as a star vehicle for Whitney Houston, who was to portray Deena. The production ran into problems when Houston wanted to sing both Deena and Effie's songs (particularly \"And I Am Telling You I'm Not Going\"), and the film was eventually abandoned. When Geffen co-founded DreamWorks in 1994 and dissolved Geffen Pictures, the rights to Dreamgirls remained with Warner Bros. Warner planned to go ahead with the film with director Joel Schumacher and screenwriter Tina Andrews in the late 1990s, following the success of Touchstone Pictures's Tina Turner biopic What's Love Got to Do with It. Schumacher planned to have Lauryn Hill portray Deena and Kelly Price play Effie. After Warner's Frankie Lymon biopic Why Do Fools Fall in Love failed at the box office, the studio shut down development on Dreamgirls.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Production &raquo; Pre-production",
+            "rrf_score": 0.062002048131080394
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:0",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "coreference",
+          "ambiguity_types": [
+            "coreference"
+          ],
+          "ambiguity_cues": [
+            "it"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223007440567017,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401449084281921,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724888801575,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:20",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "underspecification",
+          "ambiguity_types": [
+            "coreference",
+            "negation",
+            "underspecification"
+          ],
+          "ambiguity_cues": [
+            "never",
+            "it",
+            "never"
+          ],
+          "ambiguity_score": 3
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223007440567017,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401449084281921,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724888801575,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      }
+    ]
+  },
+  "1000": {
+    "sequential_samples": [
+      {
+        "id": "newwiki.jsonl:3581:4:0",
+        "claim": "the movie dreamgirls was  based on the supremes.",
+        "query": "the movie dreamgirls was  based on the supremes. Dreamgirls (film)",
+        "ambiguity": {
+          "ambiguity_type": "vagueness",
+          "ambiguity_types": [
+            "vagueness"
+          ],
+          "ambiguity_cues": [
+            "many"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1373,
+            "corpus_id": "newwiki.jsonl:3581:11:0",
+            "score": 0.552320122718811,
+            "text": "To give the story more exposure for the upcoming film release, DreamWorks and the licenser of the original play, The Tams-Witmark Music Library, announced that they would pay the licensing fees for all non-professional stage performances of Dreamgirls for the calendar year of 2006. DreamWorks hoped to encourage amateur productions of Dreamgirls, and familiarize a wider audience with the play. As a result, more than fifty high schools, colleges, community theaters, and other non-commercial theater entities staged productions of Dreamgirls in 2006, and DreamWorks spent up to $250,000 subsidizing the licensing. The Dreamgirls novelization was written by African-American novelist Denene Millner, and adapts the film's official script in chapter form, along with fourteen pages of photographs from the film. The book was released on October 31, 2006. A scrapbook, entitled Dreamgirls: The Movie Musical, was released on March 27, 2007. The limited edition program guide accompanying the Dreamgirls road show release was made available for retail purchase in February. In addition, the Tonnor Doll Company released \"The Dreamettes\" collection, featuring dolls of the characters Deena, Lorrell, and Effie, to coincide with the release of the film.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Reception &raquo; Related promotions and products",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 12517,
+            "corpus_id": "newwiki.jsonl:3581:0:0",
+            "score": 0.5689252614974976,
+            "text": "Dreamgirls is a 2006 American musical drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive. The film adaptation of Dreamgirls stars Jamie Foxx, Beyoncé, Eddie Murphy, and Jennifer Hudson, and also features Danny Glover, Anika Noni Rose and Keith Robinson. Produced by Laurence Mark, the film's screenplay was adapted by director Condon from the original Broadway book by Tom Eyen. In addition to the original Kreiger/Eyen compositions, four new songs, composed by Krieger with various lyricists, were added for this film. Dreamgirls features the acting debut of Hudson, a former American Idol contestant and singer. The film debuted in four special road show engagements starting on December 15, 2006, before its nationwide release on December 25, 2006. With a production cost of $80 million, Dreamgirls is one of the most expensive films to feature a mainly African-American starring cast in American cinema history. Upon its release, the film garnered positive reviews from critics, who particularly praised soundtrack, cast and the performances of Hudson and Murphy. The film also earned $155 million at the international box office.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "",
+            "rrf_score": 0.062266458495966695
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12412,
+            "corpus_id": "newwiki.jsonl:3581:3:0",
+            "score": 0.5474460124969482,
+            "text": "Since the 1980s and 1990s, several different attempts have been made to produce a film adaptation of Dreamgirls, a Broadway musical loosely based upon the story of The Supremes and Motown Records, which won six Tony Awards in 1982. David Geffen, the stage musical's co-financier, retained the film rights to Dreamgirls and turned down many offers to adapt the story for the screen. He cited a need to preserve the integrity of Dreamgirls stage director Michael Bennett's work after his death in 1987. That same year, Geffen, who ran his Warner Bros.-associated Geffen Pictures film production company at the time, began talks with Broadway lyricist and producer Howard Ashman to adapt it as a star vehicle for Whitney Houston, who was to portray Deena. The production ran into problems when Houston wanted to sing both Deena and Effie's songs (particularly \"And I Am Telling You I'm Not Going\"), and the film was eventually abandoned. When Geffen co-founded DreamWorks in 1994 and dissolved Geffen Pictures, the rights to Dreamgirls remained with Warner Bros. Warner planned to go ahead with the film with director Joel Schumacher and screenwriter Tina Andrews in the late 1990s, following the success of Touchstone Pictures's Tina Turner biopic What's Love Got to Do with It. Schumacher planned to have Lauryn Hill portray Deena and Kelly Price play Effie. After Warner's Frankie Lymon biopic Why Do Fools Fall in Love failed at the box office, the studio shut down development on Dreamgirls.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Production &raquo; Pre-production",
+            "rrf_score": 0.062002048131080394
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:0",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "coreference",
+          "ambiguity_types": [
+            "coreference"
+          ],
+          "ambiguity_cues": [
+            "it"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223007440567017,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401449084281921,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724888801575,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:20",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "underspecification",
+          "ambiguity_types": [
+            "coreference",
+            "negation",
+            "underspecification"
+          ],
+          "ambiguity_cues": [
+            "never",
+            "it",
+            "never"
+          ],
+          "ambiguity_score": 3
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223007440567017,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401449084281921,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724888801575,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      }
+    ],
+    "async_samples": [
+      {
+        "id": "newwiki.jsonl:3581:4:0",
+        "claim": "the movie dreamgirls was  based on the supremes.",
+        "query": "the movie dreamgirls was  based on the supremes. Dreamgirls (film)",
+        "ambiguity": {
+          "ambiguity_type": "vagueness",
+          "ambiguity_types": [
+            "vagueness"
+          ],
+          "ambiguity_cues": [
+            "many"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1373,
+            "corpus_id": "newwiki.jsonl:3581:11:0",
+            "score": 0.552320122718811,
+            "text": "To give the story more exposure for the upcoming film release, DreamWorks and the licenser of the original play, The Tams-Witmark Music Library, announced that they would pay the licensing fees for all non-professional stage performances of Dreamgirls for the calendar year of 2006. DreamWorks hoped to encourage amateur productions of Dreamgirls, and familiarize a wider audience with the play. As a result, more than fifty high schools, colleges, community theaters, and other non-commercial theater entities staged productions of Dreamgirls in 2006, and DreamWorks spent up to $250,000 subsidizing the licensing. The Dreamgirls novelization was written by African-American novelist Denene Millner, and adapts the film's official script in chapter form, along with fourteen pages of photographs from the film. The book was released on October 31, 2006. A scrapbook, entitled Dreamgirls: The Movie Musical, was released on March 27, 2007. The limited edition program guide accompanying the Dreamgirls road show release was made available for retail purchase in February. In addition, the Tonnor Doll Company released \"The Dreamettes\" collection, featuring dolls of the characters Deena, Lorrell, and Effie, to coincide with the release of the film.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Reception &raquo; Related promotions and products",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 12517,
+            "corpus_id": "newwiki.jsonl:3581:0:0",
+            "score": 0.5689252614974976,
+            "text": "Dreamgirls is a 2006 American musical drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive. The film adaptation of Dreamgirls stars Jamie Foxx, Beyoncé, Eddie Murphy, and Jennifer Hudson, and also features Danny Glover, Anika Noni Rose and Keith Robinson. Produced by Laurence Mark, the film's screenplay was adapted by director Condon from the original Broadway book by Tom Eyen. In addition to the original Kreiger/Eyen compositions, four new songs, composed by Krieger with various lyricists, were added for this film. Dreamgirls features the acting debut of Hudson, a former American Idol contestant and singer. The film debuted in four special road show engagements starting on December 15, 2006, before its nationwide release on December 25, 2006. With a production cost of $80 million, Dreamgirls is one of the most expensive films to feature a mainly African-American starring cast in American cinema history. Upon its release, the film garnered positive reviews from critics, who particularly praised soundtrack, cast and the performances of Hudson and Murphy. The film also earned $155 million at the international box office.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "",
+            "rrf_score": 0.062266458495966695
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12412,
+            "corpus_id": "newwiki.jsonl:3581:3:0",
+            "score": 0.5474460124969482,
+            "text": "Since the 1980s and 1990s, several different attempts have been made to produce a film adaptation of Dreamgirls, a Broadway musical loosely based upon the story of The Supremes and Motown Records, which won six Tony Awards in 1982. David Geffen, the stage musical's co-financier, retained the film rights to Dreamgirls and turned down many offers to adapt the story for the screen. He cited a need to preserve the integrity of Dreamgirls stage director Michael Bennett's work after his death in 1987. That same year, Geffen, who ran his Warner Bros.-associated Geffen Pictures film production company at the time, began talks with Broadway lyricist and producer Howard Ashman to adapt it as a star vehicle for Whitney Houston, who was to portray Deena. The production ran into problems when Houston wanted to sing both Deena and Effie's songs (particularly \"And I Am Telling You I'm Not Going\"), and the film was eventually abandoned. When Geffen co-founded DreamWorks in 1994 and dissolved Geffen Pictures, the rights to Dreamgirls remained with Warner Bros. Warner planned to go ahead with the film with director Joel Schumacher and screenwriter Tina Andrews in the late 1990s, following the success of Touchstone Pictures's Tina Turner biopic What's Love Got to Do with It. Schumacher planned to have Lauryn Hill portray Deena and Kelly Price play Effie. After Warner's Frankie Lymon biopic Why Do Fools Fall in Love failed at the box office, the studio shut down development on Dreamgirls.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Production &raquo; Pre-production",
+            "rrf_score": 0.062002048131080394
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:0",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "coreference",
+          "ambiguity_types": [
+            "coreference"
+          ],
+          "ambiguity_cues": [
+            "it"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223007440567017,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401449084281921,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724888801575,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:304:6:20",
+        "claim": "mockingbird kill with an academy award",
+        "query": "mockingbird kill with an academy award To Kill a Mockingbird (film)",
+        "ambiguity": {
+          "ambiguity_type": "underspecification",
+          "ambiguity_types": [
+            "coreference",
+            "negation",
+            "underspecification"
+          ],
+          "ambiguity_cues": [
+            "never",
+            "it",
+            "never"
+          ],
+          "ambiguity_score": 3
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 575,
+            "corpus_id": "newwiki.jsonl:304:8:0",
+            "score": 0.6223007440567017,
+            "text": "* Golden Globe Award for Best Actor – Motion Picture Drama — Gregory Peck * Golden Globe Award for Best Original Score — Motion Picture — Elmer Bernstein * Golden Globe Award for Best Film Promoting International Understanding — To Kill a Mockingbird",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Awards and honors &raquo; Golden Globe Awards",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1783,
+            "corpus_id": "newwiki.jsonl:304:0:0",
+            "score": 0.7401449084281921,
+            "text": "To Kill a Mockingbird is a 1962 American drama film directed by Robert Mulligan. The screenplay by Horton Foote is based on Harper Lee's 1960 Pulitzer Prize-winning novel of the same name. It stars Gregory Peck as Atticus Finch and Mary Badham as Scout. To Kill a Mockingbird marked the film debuts of Robert Duvall, William Windom, and Alice Ghostley. The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. In 1995, the film was listed in the National Film Registry. In 2003, the American Film Institute named Atticus Finch the greatest movie hero of the 20th century. In 2007, the film ranked twenty-fifth on the AFI's 10th anniversary list of the greatest American movies of all time. In 2005, the British Film Institute included it in their list of the 50 films you should see by the age of 14.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 506,
+            "corpus_id": "newwiki.jsonl:304:10:0",
+            "score": 0.5974724888801575,
+            "text": "Elmer Bernstein's score for To Kill a Mockingbird is regarded as one of the greatest film scores and has been recorded three times. It was first released in April 1963 on Ava; then Bernstein re-recorded it in the 1970s for his Film Music Collection series; and finally, he recorded the complete score (below) in 1996 with the Royal Scottish National Orchestra for the Varese Sarabande Film Classics series.",
+            "entity": "To Kill a Mockingbird (film)",
+            "section_title": "Music",
+            "rrf_score": 0.06174603174603175
+          }
+        ]
+      }
+    ]
+  }
+}

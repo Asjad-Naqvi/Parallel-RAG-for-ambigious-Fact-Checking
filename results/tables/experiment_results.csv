@@ -1,0 +1,6 @@
+experiment,backbone,input,loss,effective_batch_size,accuracy,macro_f1,distcs,entce,rankcs,kl,multilabel_f1,evidence_precision,evidence_recall,evidence_f1
+Exp1A_Base_SINGLE_FullText,microsoft/deberta-v3-base,claim + original passage,cross_entropy,64,0.7078726018334751,0.6214593881437122,0.7251832349224189,0.3089155615870562,0.7814321267681062,0.46149096083135116,0.7326812210566109,,,
+Exp1B_Base_DISTILL_FullText,microsoft/deberta-v3-base,claim + original passage,soft_cross_entropy,64,0.7252622625460732,0.6455489902589988,0.7476164714144361,0.3387407601459551,0.8222915288410044,0.34759973412868966,0.7488737674447911,,,
+Exp2A_Binary_Evidence_Selection,microsoft/deberta-v3-base,claim + sentence,cross_entropy,64,0.8465201771242377,,,,,,,0.6108506363027462,0.6502287445784565,0.6299248856016346
+Exp2B_Ternary_Evidence_Selection,microsoft/deberta-v3-base,claim + sentence,cross_entropy,64,0.8565222061754771,0.6408701114221962,,,,,,0.6576428945988464,0.5961024300398075,0.6253622962570511
+Exp3B_Pipeline_DISTILL_BinaryEvidence,microsoft/deberta-v3-base,claim + selected evidence sentences,soft_cross_entropy,64,0.713259616293356,0.6471643163413654,0.7501810149072694,0.32228068662613557,0.8230160980373626,0.3604905201210502,0.7414705604385219,,,

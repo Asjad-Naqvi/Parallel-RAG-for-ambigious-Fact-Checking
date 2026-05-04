@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment
+.env
+*.env
+
+# Logs
+logs/*
+!logs/README.md
+*.log
+
+# Data: do not upload full dataset
+data/raw/*
+data/processed/*
+data/rag/*
+data/indexes/*
+!data/README.md
+!data/samples/
+!data/samples/*.jsonl
+
+# Model checkpoints
+checkpoints/*
+!checkpoints/README.md
+
+# Large result files
+results/**/*.jsonl
+results/**/*.pt
+results/**/*.bin
+results/**/*.safetensors
+results/**/*.index
+results/**/*.pkl
+results/**/*.npy
+
+# Keep result documentation and small metric files if needed
+!results/README.md
+!results/**/*.json
+!results/**/*.csv
+!results/**/*.md
+
+# Hugging Face / cache
+.cache/
+hf_cache/
+huggingface/
+transformers_cache/
+
+# W&B / tracking
+wandb/
+mlruns/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar

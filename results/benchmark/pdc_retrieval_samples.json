@@ -1,0 +1,318 @@
+{
+  "20": {
+    "sequential_samples": [
+      {
+        "id": "newwiki.jsonl:3341:6:0",
+        "claim": "the truman show is based on a book.",
+        "query": "the truman show is based on a book. The Truman Show",
+        "mode": "sequential",
+        "ambiguity": {
+          "ambiguity_type": "coreference",
+          "ambiguity_types": [
+            "coreference",
+            "negation"
+          ],
+          "ambiguity_cues": [
+            "he",
+            "no"
+          ],
+          "ambiguity_score": 2
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1624,
+            "corpus_id": "newwiki.jsonl:3341:1:0",
+            "score": 0.5072109699249268,
+            "text": "Truman Burbank is the unsuspecting star of The Truman Show, a reality television program broadcast live around the clock worldwide. He has spent his entire life in the seaside town of Seahaven Island, which in reality is an enormous set near Hollywood, equipped with state of the art technology to simulate day and night and weather conditions, as well as 5000 cameras to record Truman's every move. The producers discourage Truman from leaving Seahaven by instilling him with aquaphobia through the \"death\" of his TV father in a boating \"accident\", and by constantly broadcasting and printing messages of the dangers of traveling. All of Seahaven's other residents are actors. Christof, the show's creator and executive producer, seeks to capture Truman's real emotion and human behavior and give audiences a relatable everyman. Despite Christof's control, he could not predict all of Truman’s actions. During his college years, Truman was intended to fall in love with and marry co-student Meryl, but fell for Sylvia, an extra. Sylvia warned him that his reality is fake before being removed from the show, where Truman is told she moved to Fiji with her father. While Truman went on to marry Meryl, he continues to think about Sylvia. He uses scraps from magazines to recreate her face in secret, and seeks travel to Fiji. Outside of the show, Sylvia has become part of a \"Free Truman\" campaign that demands the end of the show and Truman's freedom and accuses Christof of making his life worse, which Christof denies.",
+            "entity": "The Truman Show",
+            "section_title": "Plot",
+            "rrf_score": 0.062002048131080394
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1150,
+            "corpus_id": "newwiki.jsonl:3341:5:0",
+            "score": 0.515297532081604,
+            "text": "In 2008, Popular Mechanics named The Truman Show as one of the 10 most prophetic science fiction films. Journalist Erik Sofge argued that the story reflects the falseness of reality television. \"Truman simply lives, and the show's popularity is its straightforward voyeurism. And, like Big Brother, Survivor, and every other reality show on the air, none of his environment is actually real\". He deemed it an eerie coincidence that Big Brother made its debut a year after the film's release, and he also compared the film to the 2003 program The Joe Schmo Show: \"Unlike Truman, Matt Gould could see the cameras, but all of the other contestants were paid actors, playing the part of various reality-show stereotypes. While Matt eventually got all of the prizes in the rigged contest, the show's central running joke was in the same existential ballpark as The Truman Show\". Weir declared, \"There has always been this question: Is the audience getting dumber? Or are we filmmakers patronizing them? Is this what they want? Or is this what we're giving them? But the public went to my film in large numbers. And that has to be encouraging\". Ronald Bishop's paper in the Journal of Communication Enquiry suggests The Truman Show showcased the power of the media. Truman's life inspires audiences around the world, meaning their lives are controlled by his. Bishop commented, \"In the end, the power of the media is affirmed rather than challenged. In the spirit of Antonio Gramsci's concept of hegemony, these films and television programs co-opt our enchantment (and disenchantment) with the media and sell it back to us\". Simone Knox, in her essay \"Reading The Truman Show inside out\" argues that the film itself tries to blur the objective perspective and the show-within-the-film.",
+            "entity": "The Truman Show",
+            "section_title": "Themes &raquo; Media",
+            "rrf_score": 0.06175403225806452
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 1625,
+            "corpus_id": "newwiki.jsonl:3341:1:14",
+            "score": 0.44420963525772095,
+            "text": "As the show goes on, Truman starts noticing unusual events: a spotlight falling out of the sky, a radio frequency that precisely describes his movements, and rain that falls only on him. Truman spots a disheveled man and recognizes him as his father, who had snuck back onto the set, but other actors quickly drag the man away. Despite efforts by Meryl and Truman's best friend Marlon to reassure him, Truman becomes even more suspicious about his life. One day, he takes Meryl by surprise by going on an impromptu road trip, but their way is blocked by increasingly implausible emergencies. Meryl begins to break down from the stress; during an argument with Truman, she breaks character and is taken off the show. Hoping to bring Truman back to a controllable state, Christof re-introduces Truman's father to the show properly, under the guise of having lost his memory after the boating accident. This helps the show regain the ratings lead with audiences and Truman seems to return to his routines, except he begins sleeping in his basement. One evening, the production staff discovers that the sleeping Truman is completely out of their sight. Marlon is sent to check on Truman, finding that he has left an inflatable snowman dummy and a tape recorder playing snoring sounds in his place, and has disappeared through a makeshift tunnel. Marlon breaks character, revealing that Truman is gone, and Christof orders the first transmission cut in the show's history, while a citywide search for Truman is launched. Audiences around the world, including the media, are drawn to this sudden change. Truman is found sailing out of Seahaven, having conquered his fear of water, and Christof resumes the broadcast as he sends a man-made lightning storm to try to capsize the boat, after an attempt to fetch Truman fails. Network executives fear that Truman may die on live television, and Christof’s bosses and assistants demand that he end the storm. Despite being thrown overboard, Truman manages to persist; realizing he cannot dissuade Truman any further, Christof ends the storm. Truman continues to sail until, to his despair, his boat strikes the wall of the dome. He finds an exit door, but Christof, speaking directly to Truman through a speaker system, tries to convince him to stay, stating there is \"no more truth\" in the real world and that by staying in his artificial world, he would have nothing to fear. Truman considers this, then states: \"In case I don't see you... good afternoon, good evening, and good night,\" (previously his catch-phrase), takes a bow, and exits. The viewers cheer Truman on, while Sylvia races to greet him.",
+            "entity": "The Truman Show",
+            "section_title": "Plot",
+            "rrf_score": 0.061544957774465975
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:250:9:0",
+        "claim": "the nun is a prequel to the conjuring.",
+        "query": "the nun is a prequel to the conjuring. The Nun (2018 film)",
+        "mode": "sequential",
+        "ambiguity": {
+          "ambiguity_type": "underspecification",
+          "ambiguity_types": [
+            "underspecification"
+          ],
+          "ambiguity_cues": [
+            "all"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 12733,
+            "corpus_id": "newwiki.jsonl:250:0:0",
+            "score": 0.8376560807228088,
+            "text": "The Nun is a 2018 American gothic supernatural horror film directed by Corin Hardy and written by Gary Dauberman, from a story by Dauberman and James Wan. It is a spin-off of 2016's The Conjuring 2 and the fifth installment in the Conjuring Universe franchise. The film stars Demián Bichir, Taissa Farmiga and Jonas Bloquet, with Bonnie Aarons reprising her role as the Demon Nun, an incarnation of Valak, from The Conjuring 2. The plot follows a Roman Catholic priest and a nun in her novitiate as they uncover an unholy secret in 1952 Romania. Warner Bros. Pictures and New Line Cinema announced The Nun, a spin-off film to The Conjuring 2, which had opened five days earlier, with Safran and Wan producing. The initial script for the film was written by David Leslie Johnson. Hardy had signed on to direct The Nun with a new screenplay from Wan and Dauberman. Principal photography began in May 2017 in Bucharest, Romania, and during filming, the set was blessed by a Roman Catholic clergyman.",
+            "entity": "The Nun (2018 film)",
+            "section_title": "",
+            "rrf_score": 0.06278688524590163
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 941,
+            "corpus_id": "newwiki.jsonl:250:3:0",
+            "score": 0.7620772123336792,
+            "text": "On June 15, 2016, Warner Bros. Pictures and New Line Cinema announced The Nun, a spin-off film to The Conjuring 2, which had opened five days earlier. Peter Safran and James Wan produced. The initial script for the film was written by David Leslie Johnson. On February 17, 2017, it was announced that Corin Hardy had signed on to direct The Nun with a new screenplay from Wan and Gary Dauberman. During the filming of Annabelle: Creation, Safran revealed that The Nun would chronologically come first in the Conjuring Universe, making it a further prequel to The Conjuring series and Annabelle series. He said, \"We have a board that we created that has what we hope will ultimately be our series of movies. We have it in chronological order, so we can keep track of where it all happens\".",
+            "entity": "The Nun (2018 film)",
+            "section_title": "Production &raquo; Development",
+            "rrf_score": 0.06225806451612904
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12268,
+            "corpus_id": "newwiki.jsonl:250:11:0",
+            "score": 0.7479536533355713,
+            "text": "In August 2017, Wan discussed the possibility of a Nun sequel and what its storyline might entail: \"I do know where potentially, if The Nun works out, where The Nun 2 could lead to and how that ties back to Lorraine's story that we've set up with the first two Conjurings and make it all come full circle\". In April 2019, it was announced by Peter Safran that a sequel was in development. He stated there was a \"really fun\" storyline planned for the film, and commented that there was an \"inevitability to another The Nun movie\". Later that month, Akela Cooper signed onto the project as screenwriter, while Safran and James Wan will serve as producers. Bonnie Aarons will be reprising her role as Valak, the demon nun.",
+            "entity": "The Nun (2018 film)",
+            "section_title": "Sequel",
+            "rrf_score": 0.06149801587301588
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:3581:4:0",
+        "claim": "the movie dreamgirls was  based on the supremes.",
+        "query": "the movie dreamgirls was  based on the supremes. Dreamgirls (film)",
+        "mode": "sequential",
+        "ambiguity": {
+          "ambiguity_type": "vagueness",
+          "ambiguity_types": [
+            "vagueness"
+          ],
+          "ambiguity_cues": [
+            "many"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1373,
+            "corpus_id": "newwiki.jsonl:3581:11:0",
+            "score": 0.5523202419281006,
+            "text": "To give the story more exposure for the upcoming film release, DreamWorks and the licenser of the original play, The Tams-Witmark Music Library, announced that they would pay the licensing fees for all non-professional stage performances of Dreamgirls for the calendar year of 2006. DreamWorks hoped to encourage amateur productions of Dreamgirls, and familiarize a wider audience with the play. As a result, more than fifty high schools, colleges, community theaters, and other non-commercial theater entities staged productions of Dreamgirls in 2006, and DreamWorks spent up to $250,000 subsidizing the licensing. The Dreamgirls novelization was written by African-American novelist Denene Millner, and adapts the film's official script in chapter form, along with fourteen pages of photographs from the film. The book was released on October 31, 2006. A scrapbook, entitled Dreamgirls: The Movie Musical, was released on March 27, 2007. The limited edition program guide accompanying the Dreamgirls road show release was made available for retail purchase in February. In addition, the Tonnor Doll Company released \"The Dreamettes\" collection, featuring dolls of the characters Deena, Lorrell, and Effie, to coincide with the release of the film.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Reception &raquo; Related promotions and products",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 12517,
+            "corpus_id": "newwiki.jsonl:3581:0:0",
+            "score": 0.5689253807067871,
+            "text": "Dreamgirls is a 2006 American musical drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive. The film adaptation of Dreamgirls stars Jamie Foxx, Beyoncé, Eddie Murphy, and Jennifer Hudson, and also features Danny Glover, Anika Noni Rose and Keith Robinson. Produced by Laurence Mark, the film's screenplay was adapted by director Condon from the original Broadway book by Tom Eyen. In addition to the original Kreiger/Eyen compositions, four new songs, composed by Krieger with various lyricists, were added for this film. Dreamgirls features the acting debut of Hudson, a former American Idol contestant and singer. The film debuted in four special road show engagements starting on December 15, 2006, before its nationwide release on December 25, 2006. With a production cost of $80 million, Dreamgirls is one of the most expensive films to feature a mainly African-American starring cast in American cinema history. Upon its release, the film garnered positive reviews from critics, who particularly praised soundtrack, cast and the performances of Hudson and Murphy. The film also earned $155 million at the international box office.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "",
+            "rrf_score": 0.062266458495966695
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12412,
+            "corpus_id": "newwiki.jsonl:3581:3:0",
+            "score": 0.5474460124969482,
+            "text": "Since the 1980s and 1990s, several different attempts have been made to produce a film adaptation of Dreamgirls, a Broadway musical loosely based upon the story of The Supremes and Motown Records, which won six Tony Awards in 1982. David Geffen, the stage musical's co-financier, retained the film rights to Dreamgirls and turned down many offers to adapt the story for the screen. He cited a need to preserve the integrity of Dreamgirls stage director Michael Bennett's work after his death in 1987. That same year, Geffen, who ran his Warner Bros.-associated Geffen Pictures film production company at the time, began talks with Broadway lyricist and producer Howard Ashman to adapt it as a star vehicle for Whitney Houston, who was to portray Deena. The production ran into problems when Houston wanted to sing both Deena and Effie's songs (particularly \"And I Am Telling You I'm Not Going\"), and the film was eventually abandoned. When Geffen co-founded DreamWorks in 1994 and dissolved Geffen Pictures, the rights to Dreamgirls remained with Warner Bros. Warner planned to go ahead with the film with director Joel Schumacher and screenwriter Tina Andrews in the late 1990s, following the success of Touchstone Pictures's Tina Turner biopic What's Love Got to Do with It. Schumacher planned to have Lauryn Hill portray Deena and Kelly Price play Effie. After Warner's Frankie Lymon biopic Why Do Fools Fall in Love failed at the box office, the studio shut down development on Dreamgirls.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Production &raquo; Pre-production",
+            "rrf_score": 0.062002048131080394
+          }
+        ]
+      }
+    ],
+    "parallel_samples": [
+      {
+        "id": "newwiki.jsonl:3341:6:0",
+        "claim": "the truman show is based on a book.",
+        "query": "the truman show is based on a book. The Truman Show",
+        "mode": "parallel",
+        "ambiguity": {
+          "ambiguity_type": "coreference",
+          "ambiguity_types": [
+            "coreference",
+            "negation"
+          ],
+          "ambiguity_cues": [
+            "he",
+            "no"
+          ],
+          "ambiguity_score": 2
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1624,
+            "corpus_id": "newwiki.jsonl:3341:1:0",
+            "score": 0.5072109699249268,
+            "text": "Truman Burbank is the unsuspecting star of The Truman Show, a reality television program broadcast live around the clock worldwide. He has spent his entire life in the seaside town of Seahaven Island, which in reality is an enormous set near Hollywood, equipped with state of the art technology to simulate day and night and weather conditions, as well as 5000 cameras to record Truman's every move. The producers discourage Truman from leaving Seahaven by instilling him with aquaphobia through the \"death\" of his TV father in a boating \"accident\", and by constantly broadcasting and printing messages of the dangers of traveling. All of Seahaven's other residents are actors. Christof, the show's creator and executive producer, seeks to capture Truman's real emotion and human behavior and give audiences a relatable everyman. Despite Christof's control, he could not predict all of Truman’s actions. During his college years, Truman was intended to fall in love with and marry co-student Meryl, but fell for Sylvia, an extra. Sylvia warned him that his reality is fake before being removed from the show, where Truman is told she moved to Fiji with her father. While Truman went on to marry Meryl, he continues to think about Sylvia. He uses scraps from magazines to recreate her face in secret, and seeks travel to Fiji. Outside of the show, Sylvia has become part of a \"Free Truman\" campaign that demands the end of the show and Truman's freedom and accuses Christof of making his life worse, which Christof denies.",
+            "entity": "The Truman Show",
+            "section_title": "Plot",
+            "rrf_score": 0.062002048131080394
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 1150,
+            "corpus_id": "newwiki.jsonl:3341:5:0",
+            "score": 0.515297532081604,
+            "text": "In 2008, Popular Mechanics named The Truman Show as one of the 10 most prophetic science fiction films. Journalist Erik Sofge argued that the story reflects the falseness of reality television. \"Truman simply lives, and the show's popularity is its straightforward voyeurism. And, like Big Brother, Survivor, and every other reality show on the air, none of his environment is actually real\". He deemed it an eerie coincidence that Big Brother made its debut a year after the film's release, and he also compared the film to the 2003 program The Joe Schmo Show: \"Unlike Truman, Matt Gould could see the cameras, but all of the other contestants were paid actors, playing the part of various reality-show stereotypes. While Matt eventually got all of the prizes in the rigged contest, the show's central running joke was in the same existential ballpark as The Truman Show\". Weir declared, \"There has always been this question: Is the audience getting dumber? Or are we filmmakers patronizing them? Is this what they want? Or is this what we're giving them? But the public went to my film in large numbers. And that has to be encouraging\". Ronald Bishop's paper in the Journal of Communication Enquiry suggests The Truman Show showcased the power of the media. Truman's life inspires audiences around the world, meaning their lives are controlled by his. Bishop commented, \"In the end, the power of the media is affirmed rather than challenged. In the spirit of Antonio Gramsci's concept of hegemony, these films and television programs co-opt our enchantment (and disenchantment) with the media and sell it back to us\". Simone Knox, in her essay \"Reading The Truman Show inside out\" argues that the film itself tries to blur the objective perspective and the show-within-the-film.",
+            "entity": "The Truman Show",
+            "section_title": "Themes &raquo; Media",
+            "rrf_score": 0.06175403225806452
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 1625,
+            "corpus_id": "newwiki.jsonl:3341:1:14",
+            "score": 0.44420963525772095,
+            "text": "As the show goes on, Truman starts noticing unusual events: a spotlight falling out of the sky, a radio frequency that precisely describes his movements, and rain that falls only on him. Truman spots a disheveled man and recognizes him as his father, who had snuck back onto the set, but other actors quickly drag the man away. Despite efforts by Meryl and Truman's best friend Marlon to reassure him, Truman becomes even more suspicious about his life. One day, he takes Meryl by surprise by going on an impromptu road trip, but their way is blocked by increasingly implausible emergencies. Meryl begins to break down from the stress; during an argument with Truman, she breaks character and is taken off the show. Hoping to bring Truman back to a controllable state, Christof re-introduces Truman's father to the show properly, under the guise of having lost his memory after the boating accident. This helps the show regain the ratings lead with audiences and Truman seems to return to his routines, except he begins sleeping in his basement. One evening, the production staff discovers that the sleeping Truman is completely out of their sight. Marlon is sent to check on Truman, finding that he has left an inflatable snowman dummy and a tape recorder playing snoring sounds in his place, and has disappeared through a makeshift tunnel. Marlon breaks character, revealing that Truman is gone, and Christof orders the first transmission cut in the show's history, while a citywide search for Truman is launched. Audiences around the world, including the media, are drawn to this sudden change. Truman is found sailing out of Seahaven, having conquered his fear of water, and Christof resumes the broadcast as he sends a man-made lightning storm to try to capsize the boat, after an attempt to fetch Truman fails. Network executives fear that Truman may die on live television, and Christof’s bosses and assistants demand that he end the storm. Despite being thrown overboard, Truman manages to persist; realizing he cannot dissuade Truman any further, Christof ends the storm. Truman continues to sail until, to his despair, his boat strikes the wall of the dome. He finds an exit door, but Christof, speaking directly to Truman through a speaker system, tries to convince him to stay, stating there is \"no more truth\" in the real world and that by staying in his artificial world, he would have nothing to fear. Truman considers this, then states: \"In case I don't see you... good afternoon, good evening, and good night,\" (previously his catch-phrase), takes a bow, and exits. The viewers cheer Truman on, while Sylvia races to greet him.",
+            "entity": "The Truman Show",
+            "section_title": "Plot",
+            "rrf_score": 0.061544957774465975
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:250:9:0",
+        "claim": "the nun is a prequel to the conjuring.",
+        "query": "the nun is a prequel to the conjuring. The Nun (2018 film)",
+        "mode": "parallel",
+        "ambiguity": {
+          "ambiguity_type": "underspecification",
+          "ambiguity_types": [
+            "underspecification"
+          ],
+          "ambiguity_cues": [
+            "all"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 12733,
+            "corpus_id": "newwiki.jsonl:250:0:0",
+            "score": 0.8376560807228088,
+            "text": "The Nun is a 2018 American gothic supernatural horror film directed by Corin Hardy and written by Gary Dauberman, from a story by Dauberman and James Wan. It is a spin-off of 2016's The Conjuring 2 and the fifth installment in the Conjuring Universe franchise. The film stars Demián Bichir, Taissa Farmiga and Jonas Bloquet, with Bonnie Aarons reprising her role as the Demon Nun, an incarnation of Valak, from The Conjuring 2. The plot follows a Roman Catholic priest and a nun in her novitiate as they uncover an unholy secret in 1952 Romania. Warner Bros. Pictures and New Line Cinema announced The Nun, a spin-off film to The Conjuring 2, which had opened five days earlier, with Safran and Wan producing. The initial script for the film was written by David Leslie Johnson. Hardy had signed on to direct The Nun with a new screenplay from Wan and Dauberman. Principal photography began in May 2017 in Bucharest, Romania, and during filming, the set was blessed by a Roman Catholic clergyman.",
+            "entity": "The Nun (2018 film)",
+            "section_title": "",
+            "rrf_score": 0.06278688524590163
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 941,
+            "corpus_id": "newwiki.jsonl:250:3:0",
+            "score": 0.7620772123336792,
+            "text": "On June 15, 2016, Warner Bros. Pictures and New Line Cinema announced The Nun, a spin-off film to The Conjuring 2, which had opened five days earlier. Peter Safran and James Wan produced. The initial script for the film was written by David Leslie Johnson. On February 17, 2017, it was announced that Corin Hardy had signed on to direct The Nun with a new screenplay from Wan and Gary Dauberman. During the filming of Annabelle: Creation, Safran revealed that The Nun would chronologically come first in the Conjuring Universe, making it a further prequel to The Conjuring series and Annabelle series. He said, \"We have a board that we created that has what we hope will ultimately be our series of movies. We have it in chronological order, so we can keep track of where it all happens\".",
+            "entity": "The Nun (2018 film)",
+            "section_title": "Production &raquo; Development",
+            "rrf_score": 0.06225806451612904
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12268,
+            "corpus_id": "newwiki.jsonl:250:11:0",
+            "score": 0.7479536533355713,
+            "text": "In August 2017, Wan discussed the possibility of a Nun sequel and what its storyline might entail: \"I do know where potentially, if The Nun works out, where The Nun 2 could lead to and how that ties back to Lorraine's story that we've set up with the first two Conjurings and make it all come full circle\". In April 2019, it was announced by Peter Safran that a sequel was in development. He stated there was a \"really fun\" storyline planned for the film, and commented that there was an \"inevitability to another The Nun movie\". Later that month, Akela Cooper signed onto the project as screenwriter, while Safran and James Wan will serve as producers. Bonnie Aarons will be reprising her role as Valak, the demon nun.",
+            "entity": "The Nun (2018 film)",
+            "section_title": "Sequel",
+            "rrf_score": 0.06149801587301588
+          }
+        ]
+      },
+      {
+        "id": "newwiki.jsonl:3581:4:0",
+        "claim": "the movie dreamgirls was  based on the supremes.",
+        "query": "the movie dreamgirls was  based on the supremes. Dreamgirls (film)",
+        "mode": "parallel",
+        "ambiguity": {
+          "ambiguity_type": "vagueness",
+          "ambiguity_types": [
+            "vagueness"
+          ],
+          "ambiguity_cues": [
+            "many"
+          ],
+          "ambiguity_score": 1
+        },
+        "retrieved": [
+          {
+            "source": "bm25+dense",
+            "rank": 1,
+            "corpus_index": 1373,
+            "corpus_id": "newwiki.jsonl:3581:11:0",
+            "score": 0.5523202419281006,
+            "text": "To give the story more exposure for the upcoming film release, DreamWorks and the licenser of the original play, The Tams-Witmark Music Library, announced that they would pay the licensing fees for all non-professional stage performances of Dreamgirls for the calendar year of 2006. DreamWorks hoped to encourage amateur productions of Dreamgirls, and familiarize a wider audience with the play. As a result, more than fifty high schools, colleges, community theaters, and other non-commercial theater entities staged productions of Dreamgirls in 2006, and DreamWorks spent up to $250,000 subsidizing the licensing. The Dreamgirls novelization was written by African-American novelist Denene Millner, and adapts the film's official script in chapter form, along with fourteen pages of photographs from the film. The book was released on October 31, 2006. A scrapbook, entitled Dreamgirls: The Movie Musical, was released on March 27, 2007. The limited edition program guide accompanying the Dreamgirls road show release was made available for retail purchase in February. In addition, the Tonnor Doll Company released \"The Dreamettes\" collection, featuring dolls of the characters Deena, Lorrell, and Effie, to coincide with the release of the film.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Reception &raquo; Related promotions and products",
+            "rrf_score": 0.06252247488101534
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 2,
+            "corpus_index": 12517,
+            "corpus_id": "newwiki.jsonl:3581:0:0",
+            "score": 0.5689253807067871,
+            "text": "Dreamgirls is a 2006 American musical drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive. The film adaptation of Dreamgirls stars Jamie Foxx, Beyoncé, Eddie Murphy, and Jennifer Hudson, and also features Danny Glover, Anika Noni Rose and Keith Robinson. Produced by Laurence Mark, the film's screenplay was adapted by director Condon from the original Broadway book by Tom Eyen. In addition to the original Kreiger/Eyen compositions, four new songs, composed by Krieger with various lyricists, were added for this film. Dreamgirls features the acting debut of Hudson, a former American Idol contestant and singer. The film debuted in four special road show engagements starting on December 15, 2006, before its nationwide release on December 25, 2006. With a production cost of $80 million, Dreamgirls is one of the most expensive films to feature a mainly African-American starring cast in American cinema history. Upon its release, the film garnered positive reviews from critics, who particularly praised soundtrack, cast and the performances of Hudson and Murphy. The film also earned $155 million at the international box office.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "",
+            "rrf_score": 0.062266458495966695
+          },
+          {
+            "source": "bm25+dense",
+            "rank": 3,
+            "corpus_index": 12412,
+            "corpus_id": "newwiki.jsonl:3581:3:0",
+            "score": 0.5474460124969482,
+            "text": "Since the 1980s and 1990s, several different attempts have been made to produce a film adaptation of Dreamgirls, a Broadway musical loosely based upon the story of The Supremes and Motown Records, which won six Tony Awards in 1982. David Geffen, the stage musical's co-financier, retained the film rights to Dreamgirls and turned down many offers to adapt the story for the screen. He cited a need to preserve the integrity of Dreamgirls stage director Michael Bennett's work after his death in 1987. That same year, Geffen, who ran his Warner Bros.-associated Geffen Pictures film production company at the time, began talks with Broadway lyricist and producer Howard Ashman to adapt it as a star vehicle for Whitney Houston, who was to portray Deena. The production ran into problems when Houston wanted to sing both Deena and Effie's songs (particularly \"And I Am Telling You I'm Not Going\"), and the film was eventually abandoned. When Geffen co-founded DreamWorks in 1994 and dissolved Geffen Pictures, the rights to Dreamgirls remained with Warner Bros. Warner planned to go ahead with the film with director Joel Schumacher and screenwriter Tina Andrews in the late 1990s, following the success of Touchstone Pictures's Tina Turner biopic What's Love Got to Do with It. Schumacher planned to have Lauryn Hill portray Deena and Kelly Price play Effie. After Warner's Frankie Lymon biopic Why Do Fools Fall in Love failed at the box office, the studio shut down development on Dreamgirls.",
+            "entity": "Dreamgirls (film)",
+            "section_title": "Production &raquo; Pre-production",
+            "rrf_score": 0.062002048131080394
+          }
+        ]
+      }
+    ]
+  }
+}

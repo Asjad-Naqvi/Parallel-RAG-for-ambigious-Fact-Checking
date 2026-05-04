@@ -1,0 +1,15 @@
+{
+  "best_epoch": 3,
+  "best_dev_metric": "f1",
+  "best_dev_score": 0.6119182746878548,
+  "test_metrics": {
+    "loss": 0.3590035629574386,
+    "accuracy": 0.8465201771242377,
+    "precision": 0.6108506363027462,
+    "recall": 0.6502287445784565,
+    "f1": 0.6299248856016346,
+    "positive_rate_gold": 0.2008880083071745,
+    "positive_rate_pred": 0.21383812945346908,
+    "avg_evidence_score": 0.2529296875
+  }
+}

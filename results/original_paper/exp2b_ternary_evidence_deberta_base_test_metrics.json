@@ -1,0 +1,12 @@
+{
+  "loss": 0.42630271522020724,
+  "ternary_accuracy": 0.8373058973777496,
+  "ternary_macro_f1": 0.6408701114221962,
+  "evidence_accuracy": 0.8565222061754771,
+  "evidence_precision": 0.6576428945988464,
+  "evidence_recall": 0.5961024300398075,
+  "evidence_f1": 0.6253622962570511,
+  "positive_rate_gold": 0.2008880083071745,
+  "positive_rate_pred": 0.18208944535287588,
+  "avg_evidence_score": 0.23486328125
+}

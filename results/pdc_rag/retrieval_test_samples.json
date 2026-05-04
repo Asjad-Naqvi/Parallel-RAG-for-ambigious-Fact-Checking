@@ -1,0 +1,487 @@
+[
+  {
+    "example_number": 1,
+    "id": "newwiki.jsonl:6529:0:0",
+    "claim": "the 100 season 5 is the last season.",
+    "entity": "The 100 (TV series)",
+    "gold_label": "refuting",
+    "bm25": [
+      {
+        "rank": 1,
+        "corpus_index": 21122,
+        "corpus_id": "newwiki.jsonl:6529:6:29",
+        "score": 46.898400900901244,
+        "text": "The fifth season currently has a 100% with an average of 8.31/10, based on 13 reviews. The critical consensus is, \"Five years in, The 100 manages to top itself once again with a audacious, addicting season\". This is the highest rating any season of the show has received to date. On Metacritic, the season is assigned a score of 80 out of 100, based on 1 critic, indicating generally positive reviews. All episodes of the season received highly positive reviews, but the third episode Sleeping Giants has received particular high acclaim. In a 4.5/5 review from Den of Geek, the episode is described as being a \"good ol' fashioned episode of The 100\", praising its balance of action, humour, and rich relationships. The episode also gained a 4.5/5 rating from TVOverMind, praising the \"pulse-pounding action\" and approach to problem solving. Brian Lowry of The Boston Globe said: \"Our attraction to Apocalypse TV runs deep, as our culture plays out different futuristic possibilities. That's still no reason to clone material, nor is it a reason to deliver characters who are little more than stereotypes\". Allison Keene of The Hollywood Reporter wrote a negative review, stating: \"The sci-fi drama presents The CW's ultimate vision for humanity: an Earth populated only by attractive teenagers, whose parents are left out in space\". Kelly West of Cinema Blend gave it a more positive review while noting: \"CW's Thrilling New Sci-fi Drama Is A Keeper. CW's The 100 seeks to explore that concept and more with a series that's about equal parts young adult drama, sci-fi adventure and thriller. It takes a little while for the series to warm up, but when The 100 begins to hit its stride, a unique and compelling drama begins to emerge\". IGN's editor Eric Goldman also gave the show a more positive review, writing: \"Overcoming most of its early growing pains pretty quickly, The 100 was a very strong show by the end of its first season. But Season 2 elevated the series into the upper echelon, as the show become one of the coolest and most daring series on TV these days\". Maureen Ryan of Variety named the show one of the best of 2015. In 2016, the year Rolling Stone ranked the show #36 on its list of the \"40 Best Science Fiction TV Shows of All Time\", the episode \"Thirteen\" attracted criticism when Lexa, one of the series' LGBT characters, was killed off. Critics and fans considered the death a continuation of a persistent trope in television in which LGBT characters are killed off far more often than others – implicitly portraying them as disposable, as existing only to serve the stories of straight characters, or to attract viewers. A widespread debate among writers and fans about the trope ensued, with Lexa's death cited as a prime example of the trope, and why it should end.",
+        "entity": "The 100 (TV series)",
+        "section_title": "Reception &raquo; Critical response"
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21101,
+        "corpus_id": "newwiki.jsonl:6529:2:0",
+        "score": 42.58989830142862,
+        "text": "The 100 premiered on March 19, 2014. On May 8, 2014, The CW renewed The 100 for a second season, which premiered on October 22, 2014. On January 11, 2015, The CW renewed the series for a third season, which premiered on January 21, 2016. On March 12, 2016, The 100 was renewed for a fourth season of 13 episodes, which premiered on February 1, 2017. On March 10, 2017, The CW renewed the series for a fifth season, which premiered on April 24, 2018. On May 9, 2018, the series was renewed for a sixth season, which premiered on April 30, 2019. On April 24, 2019, The CW renewed the series for a seventh season, that will consist of 16 episodes and is set to premiere on May 20, 2020. In August 2019, it was announced the seventh season will be the final season, finishing the show with a total of 100 episodes across all seven seasons.",
+        "entity": "The 100 (TV series)",
+        "section_title": "Episodes"
+      },
+      {
+        "rank": 3,
+        "corpus_index": 3112,
+        "corpus_id": "newwiki.jsonl:6480:4:0",
+        "score": 42.36667848423747,
+        "text": "Voltron: Legendary Defender has received widespread critical acclaim throughout its eight-season run. Reviewers and a number of fans have lauded the series’ plot and story arc. Some critics and fans criticized the series for its handling of its LGBT representation. Additionally for most of its run, the series was plagued by poor behavior by a subset of its fans, with a number of fans issuing death threats to both the cast and crew, including Dos Santos and Montgomery, over decisions and reactions related to representation and “shipping” interests. The review aggregation website Rotten Tomatoes reported a 100% approval rating for the first season, based on 11 reviews, with Critic Consensus being that \"Voltron: Legendary Defender honors its source material with beautifully expressive animation and impactful action\". In reviewing the first season, Max Nicholson of IGN wrote, “DreamWork’s Voltron: Legendary Defender delivers exactly the kind of show you’ve come to expect from the amazing creative team behind The Legend of Korra.”He rated the series an 8.9 out of 10. Sarah Moran of ScreenRant similarly gave the series a positive review, writing, “It isn’t trying to reinvent or really improve on the original conceit of Voltron, but Legendary Defender is certainly a welcomed take on a classic cartoon; one that should appeal to fans both new and old.”Shamus Kelly from Den of Geek gave the series a perfect score, writing, “Seriously, you won’t be disappointed. It’s something special that doesn’t come around often in television.” On Rotten Tomatoes season 2 has an approval rating of 100% based on 5 reviews. On Rotten Tomatoes season 3 has an approval rating of 100% based on 5 reviews. On Rotten Tomatoes season 4 has an approval rating of 80% based on 5 reviews. On Rotten Tomatoes season 5 has an approval rating of 100% based on 5 reviews. On Rotten Tomatoes season 6 has an approval rating of 100% based on 5 reviews.",
+        "entity": "Voltron: Legendary Defender",
+        "section_title": "Reception"
+      }
+    ],
+    "dense": [
+      {
+        "rank": 1,
+        "corpus_index": 21101,
+        "corpus_id": "newwiki.jsonl:6529:2:0",
+        "score": 0.6897982358932495,
+        "text": "The 100 premiered on March 19, 2014. On May 8, 2014, The CW renewed The 100 for a second season, which premiered on October 22, 2014. On January 11, 2015, The CW renewed the series for a third season, which premiered on January 21, 2016. On March 12, 2016, The 100 was renewed for a fourth season of 13 episodes, which premiered on February 1, 2017. On March 10, 2017, The CW renewed the series for a fifth season, which premiered on April 24, 2018. On May 9, 2018, the series was renewed for a sixth season, which premiered on April 30, 2019. On April 24, 2019, The CW renewed the series for a seventh season, that will consist of 16 episodes and is set to premiere on May 20, 2020. In August 2019, it was announced the seventh season will be the final season, finishing the show with a total of 100 episodes across all seven seasons.",
+        "entity": "The 100 (TV series)",
+        "section_title": "Episodes"
+      },
+      {
+        "rank": 2,
+        "corpus_index": 15019,
+        "corpus_id": "newwiki.jsonl:3478:5:0",
+        "score": 0.5831719040870667,
+        "text": "On December 31, 2016, it was revealed that the sixth season would consist of at least 13 episodes, unlike previous seasons.",
+        "entity": "Grimm (season 6)",
+        "section_title": "Production"
+      },
+      {
+        "rank": 3,
+        "corpus_index": 29733,
+        "corpus_id": "newwiki.jsonl:1832:2:0",
+        "score": 0.5830999612808228,
+        "text": "In February 2016, the series was renewed for a fifth, sixth, and seventh season. The fifth season was released on June 9, 2017.",
+        "entity": "Orange Is the New Black (season 5)",
+        "section_title": "Production"
+      }
+    ],
+    "rrf": [
+      {
+        "rank": 1,
+        "corpus_index": 21101,
+        "corpus_id": "newwiki.jsonl:6529:2:0",
+        "score": 0.6897982358932495,
+        "text": "The 100 premiered on March 19, 2014. On May 8, 2014, The CW renewed The 100 for a second season, which premiered on October 22, 2014. On January 11, 2015, The CW renewed the series for a third season, which premiered on January 21, 2016. On March 12, 2016, The 100 was renewed for a fourth season of 13 episodes, which premiered on February 1, 2017. On March 10, 2017, The CW renewed the series for a fifth season, which premiered on April 24, 2018. On May 9, 2018, the series was renewed for a sixth season, which premiered on April 30, 2019. On April 24, 2019, The CW renewed the series for a seventh season, that will consist of 16 episodes and is set to premiere on May 20, 2020. In August 2019, it was announced the seventh season will be the final season, finishing the show with a total of 100 episodes across all seven seasons.",
+        "entity": "The 100 (TV series)",
+        "section_title": "Episodes",
+        "rrf_score": 0.03252247488101534
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21122,
+        "corpus_id": "newwiki.jsonl:6529:6:29",
+        "score": 46.898400900901244,
+        "text": "The fifth season currently has a 100% with an average of 8.31/10, based on 13 reviews. The critical consensus is, \"Five years in, The 100 manages to top itself once again with a audacious, addicting season\". This is the highest rating any season of the show has received to date. On Metacritic, the season is assigned a score of 80 out of 100, based on 1 critic, indicating generally positive reviews. All episodes of the season received highly positive reviews, but the third episode Sleeping Giants has received particular high acclaim. In a 4.5/5 review from Den of Geek, the episode is described as being a \"good ol' fashioned episode of The 100\", praising its balance of action, humour, and rich relationships. The episode also gained a 4.5/5 rating from TVOverMind, praising the \"pulse-pounding action\" and approach to problem solving. Brian Lowry of The Boston Globe said: \"Our attraction to Apocalypse TV runs deep, as our culture plays out different futuristic possibilities. That's still no reason to clone material, nor is it a reason to deliver characters who are little more than stereotypes\". Allison Keene of The Hollywood Reporter wrote a negative review, stating: \"The sci-fi drama presents The CW's ultimate vision for humanity: an Earth populated only by attractive teenagers, whose parents are left out in space\". Kelly West of Cinema Blend gave it a more positive review while noting: \"CW's Thrilling New Sci-fi Drama Is A Keeper. CW's The 100 seeks to explore that concept and more with a series that's about equal parts young adult drama, sci-fi adventure and thriller. It takes a little while for the series to warm up, but when The 100 begins to hit its stride, a unique and compelling drama begins to emerge\". IGN's editor Eric Goldman also gave the show a more positive review, writing: \"Overcoming most of its early growing pains pretty quickly, The 100 was a very strong show by the end of its first season. But Season 2 elevated the series into the upper echelon, as the show become one of the coolest and most daring series on TV these days\". Maureen Ryan of Variety named the show one of the best of 2015. In 2016, the year Rolling Stone ranked the show #36 on its list of the \"40 Best Science Fiction TV Shows of All Time\", the episode \"Thirteen\" attracted criticism when Lexa, one of the series' LGBT characters, was killed off. Critics and fans considered the death a continuation of a persistent trope in television in which LGBT characters are killed off far more often than others – implicitly portraying them as disposable, as existing only to serve the stories of straight characters, or to attract viewers. A widespread debate among writers and fans about the trope ensued, with Lexa's death cited as a prime example of the trope, and why it should end.",
+        "entity": "The 100 (TV series)",
+        "section_title": "Reception &raquo; Critical response",
+        "rrf_score": 0.01639344262295082
+      },
+      {
+        "rank": 3,
+        "corpus_index": 15019,
+        "corpus_id": "newwiki.jsonl:3478:5:0",
+        "score": 0.5831719040870667,
+        "text": "On December 31, 2016, it was revealed that the sixth season would consist of at least 13 episodes, unlike previous seasons.",
+        "entity": "Grimm (season 6)",
+        "section_title": "Production",
+        "rrf_score": 0.016129032258064516
+      }
+    ]
+  },
+  {
+    "example_number": 2,
+    "id": "newwiki.jsonl:5473:0:0",
+    "claim": "one of the twins from full house did die.",
+    "entity": "Mary-Kate and Ashley Olsen",
+    "gold_label": "neutral",
+    "bm25": [
+      {
+        "rank": 1,
+        "corpus_index": 21254,
+        "corpus_id": "newwiki.jsonl:5473:1:35",
+        "score": 53.446231434778994,
+        "text": "In early 2004, Mary-Kate and Ashley had a cameo voice role in an episode of The Simpsons as the readers of Marge's book-on-tape, The Harpooned Heart. Also in 2004, the twins starred in a second feature film, New York Minute. It would be their last film together, as well as Ashley's last acting role. Mary-Kate has continued to appear in film and television. Mary-Kate and Ashley had a fan club until 2000, \"Mary-Kate & Ashley's Fun Club\", where fans would pay to receive Mary-Kate and Ashley collectibles and photos. Each subscription included an issue of Our Funzine, Mary-Kate and Ashley's fan club magazine, exclusively available through the club, and a collectibles catalog, where one could purchase T-shirts, posters, baseball caps, key rings, school folders, postcards, and various other items. Subscribers would also receive \"surprise gifts\" (usually key rings, book excerpts, or back issues of the Funzine), lyric sheets to Mary-Kate and Ashley's songs, a school folder, a membership card, a full-sized poster, two black and white photos (one of each girl), and a color photo with reprint autographs. The club was advertised at the beginning of Mary-Kate and Ashley movies until 1998. Mary-Kate and Ashley were popular figures in the preteen market during the late 1990s and early 2000s. Their names and likenesses extended, not only to movies and videos, but to clothes, shoes, purses, hats, books, CDs and cassette tapes, fragrances and makeup, magazines, video and board games, dolls, posters, calendars, and even telephones and CD players—with a market share made up mostly of the tween demographic. Mattel produced various sets of Mary-Kate and Ashley fashion dolls from 2000 to 2005, along with separate outfits and accessory packs. The sisters became co-presidents of Dualstar on their 18th birthday in 2004. Upon taking control of the company, Mary-Kate and Ashley made moves to secure the future of the company by releasing products that appealed to the teen market, including home decoration and fragrances. The Dualstar brand has been sold in more than 3,000 stores in the United States and over 5,300 stores worldwide.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Life and career &raquo; Childhood and acting career"
+      },
+      {
+        "rank": 2,
+        "corpus_index": 11740,
+        "corpus_id": "newwiki.jsonl:6874:0:0",
+        "score": 48.058595347848424,
+        "text": "Fuller House is an American family sitcom and sequel to the 1987–95 television series Full House, airing as a Netflix original series. It was created by Jeff Franklin, and is produced by Jeff Franklin Productions and Miller-Boyett Productions in association with Warner Horizon Television. The series centers around D.J. Tanner-Fuller, a veterinarian and widowed mother of three sons, whose sister and best friend—the mother to a teenage daughter—provide support in her sons' upbringings by moving in with her. Most of the original series ensemble cast have reprised their roles on Fuller House, either as regular cast members or in guest appearances, with the exception of Mary-Kate and Ashley Olsen, who alternated in the role of Michelle Tanner on Full House. As of December 6, 2019, 66 episodes of Fuller House have been released. On January 31, 2019, the show was renewed for a fifth and final season of eighteen episodes. The first nine episodes premiered on December 6, 2019, with the final nine to be released on June 2, 2020.",
+        "entity": "List of Fuller House episodes",
+        "section_title": ""
+      },
+      {
+        "rank": 3,
+        "corpus_index": 21141,
+        "corpus_id": "newwiki.jsonl:5473:2:0",
+        "score": 46.10547934642927,
+        "text": "As the sisters have matured, they expressed greater interest in their fashion choices, with The New York Times declaring Mary-Kate a fashion icon for pioneering her signature (and now popular among celebrities and fans alike) \"homeless\" look. The style sometimes referred to by fashion journalists as \"ashcan\" or \"bohemian-bourgeois\", is similar to the boho-chic style popularized in Britain by Kate Moss and Sienna Miller. The look consists of oversized sunglasses, boots, loose sweaters, and flowing skirts, with an aesthetic of mixing high-end and low-end pieces. The twins were tapped as the faces of upscale fashion line Badgley Mischka in 2006. The Olsens had a clothing line for girls ages 4–14 in Wal-Mart stores across North America, as well as a beauty line called \"Mary-Kate and Ashley: Real fashion for real girls\". In 2004, they made news by signing a pledge to allow full maternity leave to all the workers that sew their line of clothing in Bangladesh. The National Labor Committee, which organized the pledge, praised the twins for their commitment to worker rights.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Life and career &raquo; Fashion career"
+      }
+    ],
+    "dense": [
+      {
+        "rank": 1,
+        "corpus_index": 21128,
+        "corpus_id": "newwiki.jsonl:5473:3:0",
+        "score": 0.6423975229263306,
+        "text": "This filmography is of the twins as a duo. See Mary-Kate Olsen for other productions in which she has appeared.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Filmography"
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21884,
+        "corpus_id": "newwiki.jsonl:5674:14:47",
+        "score": 0.517869234085083,
+        "text": "* Both wedded doctors. * Bree, Edie Rothwell and Susan Mayer are the only three housewives who have slept with Karl Mayer. * Bree and Gabrielle Solis are the only housewives who have cheated on their husbands. * Out of the main housewives, Bree is the only one who has killed someone purposely, since Susan killed Lillia Dash accidentally. Lynette and Edie Britt are the only main housewives not to have killed someone, purposely or not. * Bree is also the first of out of the six (Susan, Lynette, Gabrielle, Edie, Katherine & herself) main housewives to kill someone. * Among the secondary housewives, Renee Perry and Betty Applewhite are the only housewives not to have killed someone. Katherine Mayfair killed her first husband, Wayne; Angie Bolen killed her dangerous ex-boyfriend, Patrick; Mary Alice Young killed her adopted son's mother, Deirde Taylor.",
+        "entity": "Bree Van de Kamp",
+        "section_title": "Notes"
+      },
+      {
+        "rank": 3,
+        "corpus_index": 13403,
+        "corpus_id": "newwiki.jsonl:1619:2:17",
+        "score": 0.4656144380569458,
+        "text": "After completing high school, John-Boy attends fictional Boatwright University in the fictional nearby town of Westham. He later goes to New York City to work as a journalist. During the latter half of the 1976–77 season, Grandma Esther Walton suffers a stroke and returns home shortly before the death of her husband, Grandpa Zeb Walton (reflecting Ellen Corby's real-life stroke and the death of Will Geer, the actors who portrayed the characters). During the series' last few years, Mary Ellen and Ben start their own families; Erin, Jason and John-Boy are married in later television movie sequels. Younger children Jim-Bob and Elizabeth struggle to find and cement true love. World War II deeply affects the family. All four Walton boys enlist in the military. Mary Ellen's physician husband, Curtis \"Curt\" Willard, is sent to Pearl Harbor and is reported to have perished in the Japanese attack on December 7, 1941. Years later, Mary Ellen hears of sightings of her \"late\" husband, investigates and finds him alive (played by another actor), but brooding over his war wounds and living under an assumed name. She divorces him and later remarries. John-Boy's military plane is shot down, while Olivia becomes a volunteer at the VA hospital and is seen less and less; she eventually develops tuberculosis and enters an Arizona sanitarium. Olivia's cousin, Rose Burton, moves into the Walton house to look after the family. Two years later, John Sr. moves to Arizona to be with Olivia. Grandma appears in only a handful of episodes during the eighth season (she was usually said to be visiting relatives in nearby Buckingham County).",
+        "entity": "The Waltons",
+        "section_title": "Premise &raquo; Story"
+      }
+    ],
+    "rrf": [
+      {
+        "rank": 1,
+        "corpus_index": 21254,
+        "corpus_id": "newwiki.jsonl:5473:1:35",
+        "score": 53.446231434778994,
+        "text": "In early 2004, Mary-Kate and Ashley had a cameo voice role in an episode of The Simpsons as the readers of Marge's book-on-tape, The Harpooned Heart. Also in 2004, the twins starred in a second feature film, New York Minute. It would be their last film together, as well as Ashley's last acting role. Mary-Kate has continued to appear in film and television. Mary-Kate and Ashley had a fan club until 2000, \"Mary-Kate & Ashley's Fun Club\", where fans would pay to receive Mary-Kate and Ashley collectibles and photos. Each subscription included an issue of Our Funzine, Mary-Kate and Ashley's fan club magazine, exclusively available through the club, and a collectibles catalog, where one could purchase T-shirts, posters, baseball caps, key rings, school folders, postcards, and various other items. Subscribers would also receive \"surprise gifts\" (usually key rings, book excerpts, or back issues of the Funzine), lyric sheets to Mary-Kate and Ashley's songs, a school folder, a membership card, a full-sized poster, two black and white photos (one of each girl), and a color photo with reprint autographs. The club was advertised at the beginning of Mary-Kate and Ashley movies until 1998. Mary-Kate and Ashley were popular figures in the preteen market during the late 1990s and early 2000s. Their names and likenesses extended, not only to movies and videos, but to clothes, shoes, purses, hats, books, CDs and cassette tapes, fragrances and makeup, magazines, video and board games, dolls, posters, calendars, and even telephones and CD players—with a market share made up mostly of the tween demographic. Mattel produced various sets of Mary-Kate and Ashley fashion dolls from 2000 to 2005, along with separate outfits and accessory packs. The sisters became co-presidents of Dualstar on their 18th birthday in 2004. Upon taking control of the company, Mary-Kate and Ashley made moves to secure the future of the company by releasing products that appealed to the teen market, including home decoration and fragrances. The Dualstar brand has been sold in more than 3,000 stores in the United States and over 5,300 stores worldwide.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Life and career &raquo; Childhood and acting career",
+        "rrf_score": 0.01639344262295082
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21128,
+        "corpus_id": "newwiki.jsonl:5473:3:0",
+        "score": 0.6423975229263306,
+        "text": "This filmography is of the twins as a duo. See Mary-Kate Olsen for other productions in which she has appeared.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Filmography",
+        "rrf_score": 0.01639344262295082
+      },
+      {
+        "rank": 3,
+        "corpus_index": 11740,
+        "corpus_id": "newwiki.jsonl:6874:0:0",
+        "score": 48.058595347848424,
+        "text": "Fuller House is an American family sitcom and sequel to the 1987–95 television series Full House, airing as a Netflix original series. It was created by Jeff Franklin, and is produced by Jeff Franklin Productions and Miller-Boyett Productions in association with Warner Horizon Television. The series centers around D.J. Tanner-Fuller, a veterinarian and widowed mother of three sons, whose sister and best friend—the mother to a teenage daughter—provide support in her sons' upbringings by moving in with her. Most of the original series ensemble cast have reprised their roles on Fuller House, either as regular cast members or in guest appearances, with the exception of Mary-Kate and Ashley Olsen, who alternated in the role of Michelle Tanner on Full House. As of December 6, 2019, 66 episodes of Fuller House have been released. On January 31, 2019, the show was renewed for a fifth and final season of eighteen episodes. The first nine episodes premiered on December 6, 2019, with the final nine to be released on June 2, 2020.",
+        "entity": "List of Fuller House episodes",
+        "section_title": "",
+        "rrf_score": 0.016129032258064516
+      }
+    ]
+  },
+  {
+    "example_number": 3,
+    "id": "newwiki.jsonl:5473:0:0",
+    "claim": "one of the twins from full house died.",
+    "entity": "Mary-Kate and Ashley Olsen",
+    "gold_label": "neutral",
+    "bm25": [
+      {
+        "rank": 1,
+        "corpus_index": 21254,
+        "corpus_id": "newwiki.jsonl:5473:1:35",
+        "score": 53.446231434778994,
+        "text": "In early 2004, Mary-Kate and Ashley had a cameo voice role in an episode of The Simpsons as the readers of Marge's book-on-tape, The Harpooned Heart. Also in 2004, the twins starred in a second feature film, New York Minute. It would be their last film together, as well as Ashley's last acting role. Mary-Kate has continued to appear in film and television. Mary-Kate and Ashley had a fan club until 2000, \"Mary-Kate & Ashley's Fun Club\", where fans would pay to receive Mary-Kate and Ashley collectibles and photos. Each subscription included an issue of Our Funzine, Mary-Kate and Ashley's fan club magazine, exclusively available through the club, and a collectibles catalog, where one could purchase T-shirts, posters, baseball caps, key rings, school folders, postcards, and various other items. Subscribers would also receive \"surprise gifts\" (usually key rings, book excerpts, or back issues of the Funzine), lyric sheets to Mary-Kate and Ashley's songs, a school folder, a membership card, a full-sized poster, two black and white photos (one of each girl), and a color photo with reprint autographs. The club was advertised at the beginning of Mary-Kate and Ashley movies until 1998. Mary-Kate and Ashley were popular figures in the preteen market during the late 1990s and early 2000s. Their names and likenesses extended, not only to movies and videos, but to clothes, shoes, purses, hats, books, CDs and cassette tapes, fragrances and makeup, magazines, video and board games, dolls, posters, calendars, and even telephones and CD players—with a market share made up mostly of the tween demographic. Mattel produced various sets of Mary-Kate and Ashley fashion dolls from 2000 to 2005, along with separate outfits and accessory packs. The sisters became co-presidents of Dualstar on their 18th birthday in 2004. Upon taking control of the company, Mary-Kate and Ashley made moves to secure the future of the company by releasing products that appealed to the teen market, including home decoration and fragrances. The Dualstar brand has been sold in more than 3,000 stores in the United States and over 5,300 stores worldwide.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Life and career &raquo; Childhood and acting career"
+      },
+      {
+        "rank": 2,
+        "corpus_index": 11740,
+        "corpus_id": "newwiki.jsonl:6874:0:0",
+        "score": 48.058595347848424,
+        "text": "Fuller House is an American family sitcom and sequel to the 1987–95 television series Full House, airing as a Netflix original series. It was created by Jeff Franklin, and is produced by Jeff Franklin Productions and Miller-Boyett Productions in association with Warner Horizon Television. The series centers around D.J. Tanner-Fuller, a veterinarian and widowed mother of three sons, whose sister and best friend—the mother to a teenage daughter—provide support in her sons' upbringings by moving in with her. Most of the original series ensemble cast have reprised their roles on Fuller House, either as regular cast members or in guest appearances, with the exception of Mary-Kate and Ashley Olsen, who alternated in the role of Michelle Tanner on Full House. As of December 6, 2019, 66 episodes of Fuller House have been released. On January 31, 2019, the show was renewed for a fifth and final season of eighteen episodes. The first nine episodes premiered on December 6, 2019, with the final nine to be released on June 2, 2020.",
+        "entity": "List of Fuller House episodes",
+        "section_title": ""
+      },
+      {
+        "rank": 3,
+        "corpus_index": 21141,
+        "corpus_id": "newwiki.jsonl:5473:2:0",
+        "score": 46.10547934642927,
+        "text": "As the sisters have matured, they expressed greater interest in their fashion choices, with The New York Times declaring Mary-Kate a fashion icon for pioneering her signature (and now popular among celebrities and fans alike) \"homeless\" look. The style sometimes referred to by fashion journalists as \"ashcan\" or \"bohemian-bourgeois\", is similar to the boho-chic style popularized in Britain by Kate Moss and Sienna Miller. The look consists of oversized sunglasses, boots, loose sweaters, and flowing skirts, with an aesthetic of mixing high-end and low-end pieces. The twins were tapped as the faces of upscale fashion line Badgley Mischka in 2006. The Olsens had a clothing line for girls ages 4–14 in Wal-Mart stores across North America, as well as a beauty line called \"Mary-Kate and Ashley: Real fashion for real girls\". In 2004, they made news by signing a pledge to allow full maternity leave to all the workers that sew their line of clothing in Bangladesh. The National Labor Committee, which organized the pledge, praised the twins for their commitment to worker rights.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Life and career &raquo; Fashion career"
+      }
+    ],
+    "dense": [
+      {
+        "rank": 1,
+        "corpus_index": 21128,
+        "corpus_id": "newwiki.jsonl:5473:3:0",
+        "score": 0.6818457841873169,
+        "text": "This filmography is of the twins as a duo. See Mary-Kate Olsen for other productions in which she has appeared.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Filmography"
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21884,
+        "corpus_id": "newwiki.jsonl:5674:14:47",
+        "score": 0.49733996391296387,
+        "text": "* Both wedded doctors. * Bree, Edie Rothwell and Susan Mayer are the only three housewives who have slept with Karl Mayer. * Bree and Gabrielle Solis are the only housewives who have cheated on their husbands. * Out of the main housewives, Bree is the only one who has killed someone purposely, since Susan killed Lillia Dash accidentally. Lynette and Edie Britt are the only main housewives not to have killed someone, purposely or not. * Bree is also the first of out of the six (Susan, Lynette, Gabrielle, Edie, Katherine & herself) main housewives to kill someone. * Among the secondary housewives, Renee Perry and Betty Applewhite are the only housewives not to have killed someone. Katherine Mayfair killed her first husband, Wayne; Angie Bolen killed her dangerous ex-boyfriend, Patrick; Mary Alice Young killed her adopted son's mother, Deirde Taylor.",
+        "entity": "Bree Van de Kamp",
+        "section_title": "Notes"
+      },
+      {
+        "rank": 3,
+        "corpus_index": 28385,
+        "corpus_id": "newwiki.jsonl:1019:1:0",
+        "score": 0.4796909689903259,
+        "text": "Identical twins Sharon McKendrick and Susan Evers (Hayley Mills) meet at Miss Inch's Summer Camp for Girls, unaware that they are sisters. Their identical appearance initially creates rivalry, and they pull pranks on each other, culminating in the camp dance being ruined. As punishment, Miss Inch decides that they must live together in the isolated \"Serendipity\" cabin (and eat together at an \"Isolation Table\") for the remainder of the camp season. After discovering that they both come from single-parent homes, they soon realize they are twin sisters and that their parents, Mitchell \"Mitch\" Evers (Brian Keith) and Margaret \"Maggie\" McKendrick (Maureen O'Hara), divorced shortly after their birth, with each parent having custody of one of them. The twins, each eager to meet the parent she never knew, decide to switch places. Susan gives Sharon a matching haircut and teaches her how to bite her nails, and they also take a crash-course getting to know each other's personalities and character traits so as to fool the parents.",
+        "entity": "The Parent Trap (1961 film)",
+        "section_title": "Plot"
+      }
+    ],
+    "rrf": [
+      {
+        "rank": 1,
+        "corpus_index": 21254,
+        "corpus_id": "newwiki.jsonl:5473:1:35",
+        "score": 53.446231434778994,
+        "text": "In early 2004, Mary-Kate and Ashley had a cameo voice role in an episode of The Simpsons as the readers of Marge's book-on-tape, The Harpooned Heart. Also in 2004, the twins starred in a second feature film, New York Minute. It would be their last film together, as well as Ashley's last acting role. Mary-Kate has continued to appear in film and television. Mary-Kate and Ashley had a fan club until 2000, \"Mary-Kate & Ashley's Fun Club\", where fans would pay to receive Mary-Kate and Ashley collectibles and photos. Each subscription included an issue of Our Funzine, Mary-Kate and Ashley's fan club magazine, exclusively available through the club, and a collectibles catalog, where one could purchase T-shirts, posters, baseball caps, key rings, school folders, postcards, and various other items. Subscribers would also receive \"surprise gifts\" (usually key rings, book excerpts, or back issues of the Funzine), lyric sheets to Mary-Kate and Ashley's songs, a school folder, a membership card, a full-sized poster, two black and white photos (one of each girl), and a color photo with reprint autographs. The club was advertised at the beginning of Mary-Kate and Ashley movies until 1998. Mary-Kate and Ashley were popular figures in the preteen market during the late 1990s and early 2000s. Their names and likenesses extended, not only to movies and videos, but to clothes, shoes, purses, hats, books, CDs and cassette tapes, fragrances and makeup, magazines, video and board games, dolls, posters, calendars, and even telephones and CD players—with a market share made up mostly of the tween demographic. Mattel produced various sets of Mary-Kate and Ashley fashion dolls from 2000 to 2005, along with separate outfits and accessory packs. The sisters became co-presidents of Dualstar on their 18th birthday in 2004. Upon taking control of the company, Mary-Kate and Ashley made moves to secure the future of the company by releasing products that appealed to the teen market, including home decoration and fragrances. The Dualstar brand has been sold in more than 3,000 stores in the United States and over 5,300 stores worldwide.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Life and career &raquo; Childhood and acting career",
+        "rrf_score": 0.01639344262295082
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21128,
+        "corpus_id": "newwiki.jsonl:5473:3:0",
+        "score": 0.6818457841873169,
+        "text": "This filmography is of the twins as a duo. See Mary-Kate Olsen for other productions in which she has appeared.",
+        "entity": "Mary-Kate and Ashley Olsen",
+        "section_title": "Filmography",
+        "rrf_score": 0.01639344262295082
+      },
+      {
+        "rank": 3,
+        "corpus_index": 11740,
+        "corpus_id": "newwiki.jsonl:6874:0:0",
+        "score": 48.058595347848424,
+        "text": "Fuller House is an American family sitcom and sequel to the 1987–95 television series Full House, airing as a Netflix original series. It was created by Jeff Franklin, and is produced by Jeff Franklin Productions and Miller-Boyett Productions in association with Warner Horizon Television. The series centers around D.J. Tanner-Fuller, a veterinarian and widowed mother of three sons, whose sister and best friend—the mother to a teenage daughter—provide support in her sons' upbringings by moving in with her. Most of the original series ensemble cast have reprised their roles on Fuller House, either as regular cast members or in guest appearances, with the exception of Mary-Kate and Ashley Olsen, who alternated in the role of Michelle Tanner on Full House. As of December 6, 2019, 66 episodes of Fuller House have been released. On January 31, 2019, the show was renewed for a fifth and final season of eighteen episodes. The first nine episodes premiered on December 6, 2019, with the final nine to be released on June 2, 2020.",
+        "entity": "List of Fuller House episodes",
+        "section_title": "",
+        "rrf_score": 0.016129032258064516
+      }
+    ]
+  },
+  {
+    "example_number": 4,
+    "id": "newwiki.jsonl:4757:3:0",
+    "claim": "there is a season 7 of game of thrones.",
+    "entity": "Game of Thrones (season 7)",
+    "gold_label": "supporting",
+    "bm25": [
+      {
+        "rank": 1,
+        "corpus_index": 8731,
+        "corpus_id": "newwiki.jsonl:2:0:0",
+        "score": 56.33920919334035,
+        "text": "Rickon Stark is a fictional character in the A Song of Ice and Fire series of fantasy novels by American author George R. R. Martin, and its television adaptation Game of Thrones. Introduced in 1996's A Game of Thrones, Rickon is the youngest child of Eddard Stark, the honorable lord of Winterfell, an ancient fortress in the North of the fictional kingdom of Westeros. He subsequently appeared in Martin's A Clash of Kings (1998). The Publishers Weekly review of A Game of Thrones noted, \"It is fascinating to watch Martin's characters mature and grow, particularly Stark's children, who stand at the center of the book\". Rickon is portrayed by Irish actor Art Parkinson in the HBO television adaptation.",
+        "entity": "Rickon Stark",
+        "section_title": ""
+      },
+      {
+        "rank": 2,
+        "corpus_index": 1616,
+        "corpus_id": "newwiki.jsonl:670:0:0",
+        "score": 56.28324396187184,
+        "text": "A Game of Thrones is the first novel in A Song of Ice and Fire, a series of fantasy novels by the American author George R. R. Martin. It was first published on August 1, 1996. The novel won the 1997 Locus Award and was nominated for both the 1997 Nebula Award and the 1997 World Fantasy Award. The novella Blood of the Dragon, comprising the Daenerys Targaryen chapters from the novel, won the 1997 Hugo Award for Best Novella. In January 2011, the novel became a New York Times Bestseller and reached No. 1 on the list in July 2011. In the novel, recounting events from various points of view, Martin introduces the plot-lines of the noble houses of Westeros, the Wall, and the Targaryens. The novel has inspired several spin-off works, including several games. It is also the namesake and basis for the first season of Game of Thrones, an HBO television series that premiered in April 2011. A March 2013 paperback TV tie-in re-edition was also titled Game of Thrones, excluding the indefinite article \"A\".",
+        "entity": "A Game of Thrones",
+        "section_title": ""
+      },
+      {
+        "rank": 3,
+        "corpus_index": 1005,
+        "corpus_id": "newwiki.jsonl:6493:0:0",
+        "score": 56.0748052435509,
+        "text": "The first season of the fantasy drama television series Game of Thrones premiered on HBO on April 17, 2011 in the U.S. and concluded on June 19, 2011. It consists of ten episodes, each of approximately 55 minutes. The series is based on A Game of Thrones, the first novel in the A Song of Ice and Fire series by George R. R. Martin, adapted for television by David Benioff and D. B. Weiss. HBO had ordered a television pilot in November 2008; filming began the following year. However, it was deemed unsatisfactory and later reshot with some roles recast. In March 2010, HBO ordered the first season, which began filming in July 2010, primarily in Belfast, Northern Ireland, with additional filming in Malta.",
+        "entity": "Game of Thrones (season 1)",
+        "section_title": ""
+      }
+    ],
+    "dense": [
+      {
+        "rank": 1,
+        "corpus_index": 21201,
+        "corpus_id": "newwiki.jsonl:4757:0:0",
+        "score": 0.6671634316444397,
+        "text": "The seventh and penultimate season of the fantasy drama television series Game of Thrones premiered on HBO on July 16, 2017, and concluded on August 27, 2017. Unlike previous seasons, which consisted of ten episodes each, the seventh season consisted of only seven episodes. Like the previous season, it largely consisted of original content not found in George R. R. Martin's A Song of Ice and Fire series, while also incorporating material that Martin revealed to showrunners about the upcoming novels in the series. The series was adapted for television by David Benioff and D. B. Weiss. The penultimate season focuses primarily on the convergence of the show's main plotlines in preparation for the final season. Daenerys Targaryen arrives in Westeros with her army and three dragons and begins to wage war against the Lannisters while Jon Snow continues his efforts to find ways to defeat the Army of the Dead. He forges an alliance with Daenerys in an attempt to unite their forces against the White Walker army. HBO ordered the seventh season on April 21, 2016, three days before the premiere of the show's sixth season, and began filming on August 31, 2016. The season was filmed primarily in Northern Ireland, Spain, Croatia and Iceland. Game of Thrones features a large ensemble cast, including Peter Dinklage, Nikolaj Coster-Waldau, Lena Headey, Emilia Clarke, and Kit Harington. The season introduces several new cast members, including Jim Broadbent and Tom Hopper.",
+        "entity": "Game of Thrones (season 7)",
+        "section_title": ""
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21231,
+        "corpus_id": "newwiki.jsonl:4757:6:0",
+        "score": 0.6201121807098389,
+        "text": "On April 21, 2016, HBO officially ordered the seventh season of Game of Thrones, just three days prior to the premiere of the show's sixth season. In a June 2016 interview with Variety, co-creators David Benioff and D. B. Weiss revealed the seventh season would likely consist of fewer episodes, stating at the time of the interview that they were \"down to our final 13 episodes after this season. We're heading into the final lap\". Director Jack Bender, who worked on the show's sixth season, said that the seventh season would consist of seven episodes. Benioff and Weiss stated that they were unable to produce 10 episodes in the show's usual 12 to 14 month time frame, as Weiss said \"It's crossing out of a television schedule into more of a mid-range movie schedule\". HBO confirmed on July 18, 2016, that the seventh season would consist of seven episodes, and would premiere later than usual in mid-2017 because of the later filming schedule. Later it was confirmed that the season would debut on July 16. The seventh season includes an 81-minute finale; this was the series' longest episode until it was surpassed by the Season 8 episode \"The Long Night\", which is 82 minutes. Season 7's penultimate episode also runs for 71 minutes – around 16 minutes longer than an average Game of Thrones episode. The first five episodes mostly run longer than average (55 minutes), at 59, 59, 63, 50, and 59 minutes respectively. The previous longest episode in the series was the sixth-season finale, \"The Winds of Winter\", which ran for 69 minutes.",
+        "entity": "Game of Thrones (season 7)",
+        "section_title": "Production &raquo; Episodes"
+      },
+      {
+        "rank": 3,
+        "corpus_index": 27347,
+        "corpus_id": "newwiki.jsonl:1503:0:0",
+        "score": 0.5629595518112183,
+        "text": "Game of Thrones is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of A Song of Ice and Fire, George R. R. Martin's series of fantasy novels. The story takes place on the fictional continents of Westeros and Essos, it has several plot lines and a large ensemble cast. The first story arc follows a dynastic conflict among competing claimants for succession to the Iron Throne of the Seven Kingdoms, with other noble families fighting for independence from the throne. The second covers attempts to reclaim the throne by the exiled last scion of the realm's deposed ruling dynasty; the third chronicles the threat of the impending winter and the legendary creatures and fierce peoples of the North. The series, mostly written by Benioff and Weiss, has been nominated for many awards, including eight Golden Globe Awards (one win), ten Writers Guild of America Awards, seven Producers Guild of America Awards (one win), eight Directors Guild of America Awards (two wins), seven Art Directors Guild Awards (five wins), thirty-four Saturn Awards (six wins), fourteen Satellite Awards (three wins), and a Peabody Award (one win). The series has received 160 Primetime Emmy Award nominations, including eight consecutive Outstanding Drama Series nominations, with a total of 59 wins. Game of Thrones received numerous nominations, with awards recognizing various aspects of the series such as directing, writing, cast, visual effects, or overall quality.",
+        "entity": "List of awards and nominations received by Game of Thrones",
+        "section_title": ""
+      }
+    ],
+    "rrf": [
+      {
+        "rank": 1,
+        "corpus_index": 8731,
+        "corpus_id": "newwiki.jsonl:2:0:0",
+        "score": 56.33920919334035,
+        "text": "Rickon Stark is a fictional character in the A Song of Ice and Fire series of fantasy novels by American author George R. R. Martin, and its television adaptation Game of Thrones. Introduced in 1996's A Game of Thrones, Rickon is the youngest child of Eddard Stark, the honorable lord of Winterfell, an ancient fortress in the North of the fictional kingdom of Westeros. He subsequently appeared in Martin's A Clash of Kings (1998). The Publishers Weekly review of A Game of Thrones noted, \"It is fascinating to watch Martin's characters mature and grow, particularly Stark's children, who stand at the center of the book\". Rickon is portrayed by Irish actor Art Parkinson in the HBO television adaptation.",
+        "entity": "Rickon Stark",
+        "section_title": "",
+        "rrf_score": 0.01639344262295082
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21201,
+        "corpus_id": "newwiki.jsonl:4757:0:0",
+        "score": 0.6671634316444397,
+        "text": "The seventh and penultimate season of the fantasy drama television series Game of Thrones premiered on HBO on July 16, 2017, and concluded on August 27, 2017. Unlike previous seasons, which consisted of ten episodes each, the seventh season consisted of only seven episodes. Like the previous season, it largely consisted of original content not found in George R. R. Martin's A Song of Ice and Fire series, while also incorporating material that Martin revealed to showrunners about the upcoming novels in the series. The series was adapted for television by David Benioff and D. B. Weiss. The penultimate season focuses primarily on the convergence of the show's main plotlines in preparation for the final season. Daenerys Targaryen arrives in Westeros with her army and three dragons and begins to wage war against the Lannisters while Jon Snow continues his efforts to find ways to defeat the Army of the Dead. He forges an alliance with Daenerys in an attempt to unite their forces against the White Walker army. HBO ordered the seventh season on April 21, 2016, three days before the premiere of the show's sixth season, and began filming on August 31, 2016. The season was filmed primarily in Northern Ireland, Spain, Croatia and Iceland. Game of Thrones features a large ensemble cast, including Peter Dinklage, Nikolaj Coster-Waldau, Lena Headey, Emilia Clarke, and Kit Harington. The season introduces several new cast members, including Jim Broadbent and Tom Hopper.",
+        "entity": "Game of Thrones (season 7)",
+        "section_title": "",
+        "rrf_score": 0.01639344262295082
+      },
+      {
+        "rank": 3,
+        "corpus_index": 1616,
+        "corpus_id": "newwiki.jsonl:670:0:0",
+        "score": 56.28324396187184,
+        "text": "A Game of Thrones is the first novel in A Song of Ice and Fire, a series of fantasy novels by the American author George R. R. Martin. It was first published on August 1, 1996. The novel won the 1997 Locus Award and was nominated for both the 1997 Nebula Award and the 1997 World Fantasy Award. The novella Blood of the Dragon, comprising the Daenerys Targaryen chapters from the novel, won the 1997 Hugo Award for Best Novella. In January 2011, the novel became a New York Times Bestseller and reached No. 1 on the list in July 2011. In the novel, recounting events from various points of view, Martin introduces the plot-lines of the noble houses of Westeros, the Wall, and the Targaryens. The novel has inspired several spin-off works, including several games. It is also the namesake and basis for the first season of Game of Thrones, an HBO television series that premiered in April 2011. A March 2013 paperback TV tie-in re-edition was also titled Game of Thrones, excluding the indefinite article \"A\".",
+        "entity": "A Game of Thrones",
+        "section_title": "",
+        "rrf_score": 0.016129032258064516
+      }
+    ]
+  },
+  {
+    "example_number": 5,
+    "id": "newwiki.jsonl:1448:13:0",
+    "claim": "all cells in a multicellular organism have the same function.",
+    "entity": "Multicellular organism",
+    "gold_label": "neutral",
+    "bm25": [
+      {
+        "rank": 1,
+        "corpus_index": 21157,
+        "corpus_id": "newwiki.jsonl:1448:1:0",
+        "score": 60.250491053716054,
+        "text": "Multicellularity has evolved independently at least 25 times in eukaryotes, and also in some prokaryotes, like cyanobacteria, myxobacteria, actinomycetes, Magnetoglobus multicellularis or Methanosarcina. However, complex multicellular organisms evolved only in six eukaryotic groups: animals, fungi, brown algae, red algae, green algae, and land plants. It evolved repeatedly for Chloroplastida (green algae and land plants), once or twice for animals, once for brown algae, three times in the fungi (chytrids, ascomycetes and basidiomycetes) and perhaps several times for slime molds and red algae. The first evidence of multicellularity is from cyanobacteria-like organisms that lived 3–3.5 billion years ago. To reproduce, true multicellular organisms must solve the problem of regenerating a whole organism from germ cells (i.e., sperm and egg cells), an issue that is studied in evolutionary developmental biology. Animals have evolved a considerable diversity of cell types in a multicellular body (100–150 different cell types), compared with 10–20 in plants and fungi.",
+        "entity": "Multicellular organism",
+        "section_title": "Evolutionary history &raquo; Occurrence"
+      },
+      {
+        "rank": 2,
+        "corpus_index": 22912,
+        "corpus_id": "newwiki.jsonl:1448:15:0",
+        "score": 55.53467156310299,
+        "text": "Multicellularity allows an organism to exceed the size limits normally imposed by diffusion: single cells with increased size have a decreased surface-to-volume ratio and have difficulty absorbing sufficient nutrients and transporting them throughout the cell. Multicellular organisms thus have the competitive advantages of an increase in size without its limitations. They can have longer lifespans as they can continue living when individual cells die. Multicellularity also permits increasing complexity by allowing differentiation of cell types within one organism. Whether these can be seen as advantages however is debatable. The vast majority of living organisms are single cellular, and even in terms of biomass, single cellular organisms are far more successful than animals, though not plants. Rather than seeing traits such as longer lifespans and greater size as an advantage, many biologists see these only as examples of diversity, with associated tradeoffs.",
+        "entity": "Multicellular organism",
+        "section_title": "Advantages"
+      },
+      {
+        "rank": 3,
+        "corpus_index": 14396,
+        "corpus_id": "newwiki.jsonl:308:0:0",
+        "score": 55.44067881261711,
+        "text": "Alternation of generations (also known as metagenesis) is the type of life cycle that occurs in those plants and algae in the Archaeplastida and the Heterokontophyta that have distinct haploid sexual and diploid asexual stages. In these groups, a multicellular haploid gametophyte with n chromosomes alternates with a multicellular diploid sporophyte with 2n chromosomes, made up of n pairs. A mature sporophyte produces haploid spores by meiosis, a process which reduces the number of chromosomes to half, from 2n to n. The haploid spores germinate and grow into a haploid gametophyte. At maturity, the gametophyte produces gametes by mitosis, which does not alter the number of chromosomes. Two gametes (originating from different organisms of the same species or from the same organism) fuse to produce a diploid zygote, which develops into a diploid sporophyte. This cycle, from gametophyte to sporophyte (or equally from sporophyte to gametophyte), is the way in which all land plants and many algae undergo sexual reproduction.",
+        "entity": "Alternation of generations",
+        "section_title": ""
+      }
+    ],
+    "dense": [
+      {
+        "rank": 1,
+        "corpus_index": 22912,
+        "corpus_id": "newwiki.jsonl:1448:15:0",
+        "score": 0.6553220748901367,
+        "text": "Multicellularity allows an organism to exceed the size limits normally imposed by diffusion: single cells with increased size have a decreased surface-to-volume ratio and have difficulty absorbing sufficient nutrients and transporting them throughout the cell. Multicellular organisms thus have the competitive advantages of an increase in size without its limitations. They can have longer lifespans as they can continue living when individual cells die. Multicellularity also permits increasing complexity by allowing differentiation of cell types within one organism. Whether these can be seen as advantages however is debatable. The vast majority of living organisms are single cellular, and even in terms of biomass, single cellular organisms are far more successful than animals, though not plants. Rather than seeing traits such as longer lifespans and greater size as an advantage, many biologists see these only as examples of diversity, with associated tradeoffs.",
+        "entity": "Multicellular organism",
+        "section_title": "Advantages"
+      },
+      {
+        "rank": 2,
+        "corpus_index": 21157,
+        "corpus_id": "newwiki.jsonl:1448:1:0",
+        "score": 0.6442388296127319,
+        "text": "Multicellularity has evolved independently at least 25 times in eukaryotes, and also in some prokaryotes, like cyanobacteria, myxobacteria, actinomycetes, Magnetoglobus multicellularis or Methanosarcina. However, complex multicellular organisms evolved only in six eukaryotic groups: animals, fungi, brown algae, red algae, green algae, and land plants. It evolved repeatedly for Chloroplastida (green algae and land plants), once or twice for animals, once for brown algae, three times in the fungi (chytrids, ascomycetes and basidiomycetes) and perhaps several times for slime molds and red algae. The first evidence of multicellularity is from cyanobacteria-like organisms that lived 3–3.5 billion years ago. To reproduce, true multicellular organisms must solve the problem of regenerating a whole organism from germ cells (i.e., sperm and egg cells), an issue that is studied in evolutionary developmental biology. Animals have evolved a considerable diversity of cell types in a multicellular body (100–150 different cell types), compared with 10–20 in plants and fungi.",
+        "entity": "Multicellular organism",
+        "section_title": "Evolutionary history &raquo; Occurrence"
+      },
+      {
+        "rank": 3,
+        "corpus_index": 21212,
+        "corpus_id": "newwiki.jsonl:1448:3:0",
+        "score": 0.5341387391090393,
+        "text": "Multicellular organisms, especially long-living animals, face the challenge of cancer, which occurs when cells fail to regulate their growth within the normal program of development. Changes in tissue morphology can be observed during this process. Cancer in animals (metazoans) has often been described as a loss of multicellularity. There is a discussion about the possibility of existence of cancer in other multicellular organisms or even in protozoa. For example, plant galls have been characterized as tumors, but some authors argue that plants do not develop cancer.",
+        "entity": "Multicellular organism",
+        "section_title": "Evolutionary history &raquo; Cancer"
+      }
+    ],
+    "rrf": [
+      {
+        "rank": 1,
+        "corpus_index": 21157,
+        "corpus_id": "newwiki.jsonl:1448:1:0",
+        "score": 0.6442388296127319,
+        "text": "Multicellularity has evolved independently at least 25 times in eukaryotes, and also in some prokaryotes, like cyanobacteria, myxobacteria, actinomycetes, Magnetoglobus multicellularis or Methanosarcina. However, complex multicellular organisms evolved only in six eukaryotic groups: animals, fungi, brown algae, red algae, green algae, and land plants. It evolved repeatedly for Chloroplastida (green algae and land plants), once or twice for animals, once for brown algae, three times in the fungi (chytrids, ascomycetes and basidiomycetes) and perhaps several times for slime molds and red algae. The first evidence of multicellularity is from cyanobacteria-like organisms that lived 3–3.5 billion years ago. To reproduce, true multicellular organisms must solve the problem of regenerating a whole organism from germ cells (i.e., sperm and egg cells), an issue that is studied in evolutionary developmental biology. Animals have evolved a considerable diversity of cell types in a multicellular body (100–150 different cell types), compared with 10–20 in plants and fungi.",
+        "entity": "Multicellular organism",
+        "section_title": "Evolutionary history &raquo; Occurrence",
+        "rrf_score": 0.03252247488101534
+      },
+      {
+        "rank": 2,
+        "corpus_index": 22912,
+        "corpus_id": "newwiki.jsonl:1448:15:0",
+        "score": 0.6553220748901367,
+        "text": "Multicellularity allows an organism to exceed the size limits normally imposed by diffusion: single cells with increased size have a decreased surface-to-volume ratio and have difficulty absorbing sufficient nutrients and transporting them throughout the cell. Multicellular organisms thus have the competitive advantages of an increase in size without its limitations. They can have longer lifespans as they can continue living when individual cells die. Multicellularity also permits increasing complexity by allowing differentiation of cell types within one organism. Whether these can be seen as advantages however is debatable. The vast majority of living organisms are single cellular, and even in terms of biomass, single cellular organisms are far more successful than animals, though not plants. Rather than seeing traits such as longer lifespans and greater size as an advantage, many biologists see these only as examples of diversity, with associated tradeoffs.",
+        "entity": "Multicellular organism",
+        "section_title": "Advantages",
+        "rrf_score": 0.03252247488101534
+      },
+      {
+        "rank": 3,
+        "corpus_index": 14396,
+        "corpus_id": "newwiki.jsonl:308:0:0",
+        "score": 55.44067881261711,
+        "text": "Alternation of generations (also known as metagenesis) is the type of life cycle that occurs in those plants and algae in the Archaeplastida and the Heterokontophyta that have distinct haploid sexual and diploid asexual stages. In these groups, a multicellular haploid gametophyte with n chromosomes alternates with a multicellular diploid sporophyte with 2n chromosomes, made up of n pairs. A mature sporophyte produces haploid spores by meiosis, a process which reduces the number of chromosomes to half, from 2n to n. The haploid spores germinate and grow into a haploid gametophyte. At maturity, the gametophyte produces gametes by mitosis, which does not alter the number of chromosomes. Two gametes (originating from different organisms of the same species or from the same organism) fuse to produce a diploid zygote, which develops into a diploid sporophyte. This cycle, from gametophyte to sporophyte (or equally from sporophyte to gametophyte), is the way in which all land plants and many algae undergo sexual reproduction.",
+        "entity": "Alternation of generations",
+        "section_title": "",
+        "rrf_score": 0.015873015873015872
+      }
+    ]
+  }
+]
